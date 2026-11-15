@@ -1,0 +1,8698 @@
+{
+"source": [
+"https://media.cna.ro/Radio_Licente_audiovizuale_47a6d297fb.pdf",
+"https://media.cna.ro/Frecventele_serviciilor_de_programe_Radio_ale_SRR_SITE_b0187e0343.pdf"
+],
+"licente": [
+{
+"loc": "ABRUD",
+"jud": "ALBA",
+"f": "88.3",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ABRUD",
+"jud": "ALBA",
+"f": "94.3",
+"name": "HIT FM",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "ADJUD",
+"jud": "VRANCEA",
+"f": "91.5",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ADJUD",
+"jud": "VRANCEA",
+"f": "107.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ADJUD",
+"jud": "VRANCEA",
+"f": "94.4",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "AGNITA",
+"jud": "SIBIU",
+"f": "88.5",
+"name": "SWEET FM",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Locală"
+},
+{
+"loc": "AIUD",
+"jud": "ALBA",
+"f": "103.2",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "AIUD",
+"jud": "ALBA",
+"f": "95.2",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală (AIUD, OCNA MUREȘ)"
+},
+{
+"loc": "AIUD",
+"jud": "ALBA",
+"f": "88.3",
+"name": "RADIO EVENIMENT",
+"theme": "Generalist",
+"owner": "SC MEDIA EVENIMENT SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "89.6",
+"name": "RADIO REÎNTREGIREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA ORTODOXĂ ROMÂNĂ ALBA IULIA",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "99.1",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "94.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "88.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "99.7",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "102.3",
+"name": "EBS RADIO",
+"theme": "Generalist",
+"owner": "SC EBS REI SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "97.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "107.2",
+"name": "CITY FM - ALBA IULIA",
+"theme": "Generalist",
+"owner": "SC ICA MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "91.9",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "91.2",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "97.7",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ALBA IULIA",
+"jud": "ALBA",
+"f": "100.5",
+"name": "SWEET FM",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALEȘD",
+"jud": "BIHOR",
+"f": "95.8",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "88.1",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "91.2",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "95.0",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "93.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "100.3",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "106.9",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "103.3",
+"name": "REALITATEA FM",
+"theme": "ȘTIRI ȘI INFORMAȚII",
+"owner": "SC SEMNAL MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "94.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "97.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "92.7",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "95.5",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "99.1",
+"name": "RADIO ARAD",
+"theme": "Generalist",
+"owner": "SC ARMEDIA GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "105.3",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "92.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "90.6",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "89.3",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "93.4",
+"name": "JOY FM",
+"theme": "Generalist",
+"owner": "SC JOY MEDIA ENTERPRISE SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "102.0",
+"name": "ALT FM",
+"theme": "EDUCATIV - RELIGIOS",
+"owner": "SC RADIO CNM SRL",
+"cov": "Locală"
+},
+{
+"loc": "ARAD",
+"jud": "ARAD",
+"f": "99.8",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BĂNEASA -",
+"jud": "CONSTANȚA",
+"f": "93.9",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BĂNEASA -",
+"jud": "CONSTANȚA",
+"f": "105.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "95.5",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "107.0",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "89.6",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "96.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "95.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "96.0",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "91.8",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "107.8",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "88.8",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "104.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "98.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "92.5",
+"name": "ROMANTIC FM",
+"theme": "MUZICAL",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "100.6",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "90.6",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "105.4",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BACĂU",
+"jud": "BACĂU",
+"f": "94.0",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "95.4",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "94.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "88.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "88.5",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "88.5",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "107.4",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "105.3",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "88.5",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "90.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "98.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "91.6",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "106.1",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "92.1",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "96.9",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "104.2",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "92.8",
+"name": "MARAMUREȘ FM BAIA MARE",
+"theme": "Generalist",
+"owner": "SC XAOS REGIONAL MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BARAOLT",
+"jud": "COVASNA",
+"f": "90.5",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "BARAOLT",
+"jud": "COVASNA",
+"f": "90.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "93.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "88.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "95.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "104.9",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "100.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "97.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BÂRLAD",
+"jud": "VASLUI",
+"f": "103.3",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BECHET",
+"jud": "DOLJ",
+"f": "103.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BECLEAN",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "91.5",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BEIUȘ",
+"jud": "BIHOR",
+"f": "99.9",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BEIUȘ",
+"jud": "BIHOR",
+"f": "95.4",
+"name": "FAVORIT FM",
+"theme": "FOLCLOR",
+"owner": "SC CLAS MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BEIUȘ",
+"jud": "BIHOR",
+"f": "88.0",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BICAZ",
+"jud": "NEAMȚ",
+"f": "96.1",
+"name": "JURNAL FM",
+"theme": "CULTURAL - EDUCATIV",
+"owner": "FUNDAȚIA ÎMPREUNĂ PENTRU SOLIDARITATE SOCIALĂ",
+"cov": "Locală"
+},
+{
+"loc": "BICAZ",
+"jud": "NEAMȚ",
+"f": "93.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BIHOR",
+"jud": "BIHOR",
+"f": "107.9",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "102.0",
+"name": "RADIO RENAȘTEREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA VADULUI, FELEACULUI ȘI CLUJULUI",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "106.0",
+"name": "RADIO BISTRIȚA",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "BISERICA PENTICOSTALĂ \"SFÂNTA TREIME\"",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "93.4",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "92.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "99.3",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "89.3",
+"name": "RADIO BALADA",
+"theme": "Generalist",
+"owner": "SC BALADA STUDIO MUSIC SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "92.6",
+"name": "BISTRIȚA FM",
+"theme": "Generalist",
+"owner": "SC BFM MEDIA CONSULTING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "107.8",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "88.2",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "97.3",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "90.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "95.1",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "94.1",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BISTRIȚA",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "103.2",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BLAJ",
+"jud": "ALBA",
+"f": "94.4",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "BLAJ",
+"jud": "ALBA",
+"f": "99.4",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BLAJ",
+"jud": "ALBA",
+"f": "96.2",
+"name": "RADIO BLAJ",
+"theme": "Generalist",
+"owner": "SC MITROMEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BLAJ",
+"jud": "ALBA",
+"f": "105.2",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "BOCȘA",
+"jud": "CARAȘ-SEVERIN",
+"f": "93.8",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "BORȘA",
+"jud": "MARAMUREȘ",
+"f": "101.4",
+"name": "MARAMUREȘ FM",
+"theme": "Generalist",
+"owner": "SC XAOS REGIONAL MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BORSEC",
+"jud": "HARGHITA",
+"f": "91.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BORSEC",
+"jud": "HARGHITA",
+"f": "89.0",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "88.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "95.6",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "89.7",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "98.1",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "96.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "91.1",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Regională (Județul BOTOȘANI)"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "88.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "93.1",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "95.0",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "99.8",
+"name": "RADIO FIX",
+"theme": "Generalist",
+"owner": "SC RADIO FIX 99,8 FM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "104.2",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "106.3",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRĂILA",
+"jud": "BRĂILA",
+"f": "98.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRĂILA",
+"jud": "BRĂILA",
+"f": "89.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRĂILA",
+"jud": "BRĂILA",
+"f": "94.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRĂILA",
+"jud": "BRĂILA",
+"f": "104.4",
+"name": "BRĂILA DENS FM",
+"theme": "MUZICAL",
+"owner": "SC PRELCOOL MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRĂILA",
+"jud": "BRĂILA",
+"f": "105.5",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "94.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "94.6",
+"name": "ORTODOXIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA CULTURAL - CREȘTINĂ \"ORTODOXIA\"",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "98.2",
+"name": "JURNAL FM",
+"theme": "CULTURAL - EDUCATIV",
+"owner": "FUNDAȚIA ÎMPREUNĂ PENTRU SOLIDARITATE SOCIALĂ",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "101.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "91.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "95.8",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "87.8",
+"name": "RADIO BRAȘOV",
+"theme": "Generalist",
+"owner": "SC BRASOVBRODCAST MEDIA GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "93.8",
+"name": "SUPER FM",
+"theme": "Generalist",
+"owner": "SC BRASOVBRODCAST MEDIA GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "100.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "89.9",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "91.9",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "106.4",
+"name": "EBS RADIO",
+"theme": "Generalist",
+"owner": "SC EBS REI SRL",
+"cov": "Regională (Județul BRAȘOV)"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "89.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "97.2",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "96.4",
+"name": "SPORT TOTAL FM",
+"theme": "SPORTIV",
+"owner": "SC PUBLIVOL CREATIV SA",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "105.5",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "92.5",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "94.6",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "88.4",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "BRAD",
+"jud": "HUNEDOARA",
+"f": "101.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BRAD",
+"jud": "HUNEDOARA",
+"f": "87.7",
+"name": "ALT FM",
+"theme": "EDUCATIV - RELIGIOS",
+"owner": "SC RADIO CNM SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUȘTENI",
+"jud": "PRAHOVA",
+"f": "90.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "94.2",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "88.5",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "100.6",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "96.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "100.6",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "90.8",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "100.6",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "91.7",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "96.9",
+"name": "GOLD FM",
+"theme": "Generalist",
+"owner": "SC ANGUS RESOURCES SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "106.2",
+"name": "3 FM",
+"theme": "ȘTIRI ȘI INFORMAȚII",
+"owner": "SC ANTENA 3 SA",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "89.5",
+"name": "DANCE FM",
+"theme": "MUZICAL",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "103.8",
+"name": "DIGI 24 FM",
+"theme": "ȘTIRI",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "97.9",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "102.8",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "100.6",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "88.0",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "106.7",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "89.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "101.9",
+"name": "ROMANTIC FM",
+"theme": "MUZICAL",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "103.4",
+"name": "RADIO SEVEN EDUCAȚIONAL",
+"theme": "- CULTURAL",
+"owner": "SC MASS MEDIA ROMÂNIA DE MÂINE SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "90.2",
+"name": "NOSTALGIA RADIO",
+"theme": "Generalist",
+"owner": "SC NOSTALGIA RETRO DISCO FUTURE SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "99.3",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "105.8",
+"name": "SPORT TOTAL FM",
+"theme": "SPORTIV",
+"owner": "SC PUBLIVOL CREATIV SA",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "93.5",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "94.8",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "92.1",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "100.2",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "92.7",
+"name": "URBAN FM",
+"theme": "Generalist",
+"owner": "SC SICVRIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "94.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUCUREȘTI",
+"jud": "BUCUREȘTI",
+"f": "107.3",
+"name": "EURONEWS RADIO INFORMATIV",
+"theme": "- EDUCATIV",
+"owner": "UNIVERSITATEA NAȚIONALĂ DE ȘTIINȚĂ ȘI TEHNOLOGIE POLITEHNICA BUCUREȘTI",
+"cov": "Locală"
+},
+{
+"loc": "BUTEA",
+"jud": "IAȘI",
+"f": "88.3",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "91.3",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "105.6",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "94.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "106.2",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "96.7",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "100.3",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "92.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "93.8",
+"name": "FOCUS FM",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "87.9",
+"name": "BUZZ FM",
+"theme": "Generalist",
+"owner": "SC R T M BUZĂU SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "102.7",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "98.7",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "BUZĂU",
+"jud": "BUZĂU",
+"f": "98.0",
+"name": "RADIO CAMPUS",
+"theme": "Generalist",
+"owner": "SC TV BUZĂU TRUST CAMPUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "95.5",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "101.8",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "101.1",
+"name": "RADIO UNO",
+"theme": "Generalist",
+"owner": "SC CANAL SUD MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "105.5",
+"name": "STIL FM",
+"theme": "Generalist",
+"owner": "SC EAGLE MEDIA BROADCASTING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "99.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "100.0",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "94.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "CALAFAT",
+"jud": "DOLJ",
+"f": "98.5",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPENI",
+"jud": "ALBA",
+"f": "96.2",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPIA TURZII",
+"jud": "CLUJ",
+"f": "97.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPIA TURZII",
+"jud": "CLUJ",
+"f": "98.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPINA",
+"jud": "PRAHOVA",
+"f": "88.6",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CÂMPINA",
+"jud": "PRAHOVA",
+"f": "103.2",
+"name": "RADIO GUERRILLA CÂMPINA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "100.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "95.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "88.4",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "89.8",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "87.7",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "94.1",
+"name": "MUSCEL FM",
+"theme": "Generalist",
+"owner": "SC INTEX PRIM SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "ARGEȘ",
+"f": "96.6",
+"name": "RADIO ORION",
+"theme": "Generalist",
+"owner": "SC SMART BUSINESS COM SRL",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "100.7",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS -",
+"owner": "ASOCIAȚIA CENTRUL MEDIA",
+"cov": "Locală"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "92.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "107.2",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "104.8",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "102.7",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CÂMPULUNG",
+"jud": "SUCEAVA",
+"f": "88.8",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "CARACAL",
+"jud": "OLT",
+"f": "93.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CARANSEBEȘ",
+"jud": "CARAȘ-SEVERIN",
+"f": "99.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CARANSEBEȘ",
+"jud": "CARAȘ-SEVERIN",
+"f": "93.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CARANSEBEȘ",
+"jud": "CARAȘ-SEVERIN",
+"f": "98.6",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CARANSEBEȘ",
+"jud": "CARAȘ-SEVERIN",
+"f": "99.1",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CAREI",
+"jud": "SATU MARE",
+"f": "95.2",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "CAREI",
+"jud": "SATU MARE",
+"f": "93.8",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "CERNAVODĂ",
+"jud": "CONSTANȚA",
+"f": "97.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CERNAVODĂ",
+"jud": "CONSTANȚA",
+"f": "95.6",
+"name": "RADIO TERRA",
+"theme": "Generalist",
+"owner": "SC TERRA INTER-MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CIULNIȚA",
+"jud": "IALOMIȚA",
+"f": "93.3",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CIULNIȚA",
+"jud": "IALOMIȚA",
+"f": "89.8",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "91.0",
+"name": "RADIO RENAȘTEREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA VADULUI, FELEACULUI ȘI CLUJULUI",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "100.4",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "88.3",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "88.3",
+"name": "AGNUS",
+"theme": "RELIGIE - CULTURĂ",
+"owner": "EPARHIA REFORMATĂ DIN ARDEAL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "89.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "89.4",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "89.8",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "89.8",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "103.0",
+"name": "DANCE FM",
+"theme": "MUZICAL",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "104.5",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "99.8",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "89.8",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "92.2",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "92.8",
+"name": "RADIO DOR FM",
+"theme": "Generalist",
+"owner": "SC CLUJMEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "101.5",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "90.4",
+"name": "EBS RADIO",
+"theme": "Generalist",
+"owner": "SC EBS REI SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "106.6",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "87.8",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "107.3",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "95.1",
+"name": "PAPRIKA RADIO FM",
+"theme": "Generalist",
+"owner": "SC PAPRIKA RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "91.7",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "94.5",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "93.2",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "102.2",
+"name": "NAPOCA FM",
+"theme": "Generalist",
+"owner": "SC SELMACO INTERNATIONAL SRL",
+"cov": "Locală"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "93.8",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CLUJ-NAPOCA",
+"jud": "CLUJ",
+"f": "88.3",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "93.5",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "95.1",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "98.5",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "106.3",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "90.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "91.6",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "99.7",
+"name": "RADIO DOBROGEA CONFESIONAL",
+"theme": "",
+"owner": "ARHIEPISCOPIA TOMISULUI",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "103.5",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "104.4",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "92.4",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "103.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "91.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "103.9",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "89.4",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "103.9",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "94.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "96.2",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "90.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "103.9",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "96.9",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "106.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "107.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "101.1",
+"name": "SKY FM",
+"theme": "Generalist",
+"owner": "SC MONTANA PRESS SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "97.8",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "91.6",
+"name": "PLAY RADIO",
+"theme": "Generalist",
+"owner": "SC PLAY BROADCASTING MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "88.5",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "92.9",
+"name": "C FM",
+"theme": "Generalist",
+"owner": "SC RADO PREST SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "94.7",
+"name": "RADIO DOINA FM",
+"theme": "Generalist",
+"owner": "SC SUD-EST PRESS SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "104.4",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "104.4",
+"name": "RADIO T",
+"theme": "Generalist",
+"owner": "UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "COSTEȘTI",
+"jud": "ARGEȘ",
+"f": "94.8",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "COSTINEȘTI",
+"jud": "CONSTANȚA",
+"f": "87.8",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "COVASNA",
+"jud": "COVASNA",
+"f": "92.3",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "COVASNA",
+"jud": "COVASNA",
+"f": "107.2",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "COVASNA",
+"jud": "COVASNA",
+"f": "96.8",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "87.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "100.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "98.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "98.0",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "98.0",
+"name": "ONE FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "107.6",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "105.5",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "98.0",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "92.0",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "104.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "95.5",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "95.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "96.8",
+"name": "HIT FM",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "97.4",
+"name": "RADIO SUD",
+"theme": "Generalist",
+"owner": "SC MEDIA SUD EUROPA SA",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "94.8",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "94.0",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "92.7",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRAIOVA",
+"jud": "DOLJ",
+"f": "103.6",
+"name": "RADIO HORION",
+"theme": "Generalist",
+"owner": "SC RADIO-TV HORION SRL",
+"cov": "Locală"
+},
+{
+"loc": "CRISTURU SECUIESC",
+"jud": "HARGHITA",
+"f": "88.6",
+"name": "VOX",
+"theme": "Generalist",
+"owner": "SC HARGITA-LINE SRL",
+"cov": "Locală"
+},
+{
+"loc": "CUGIR",
+"jud": "ALBA",
+"f": "87.9",
+"name": "RADIO ENERGY 87,9 MHZ",
+"theme": "Generalist",
+"owner": "SC ALEX MEDIA PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "CURTEA DE ARGEȘ",
+"jud": "ARGEȘ",
+"f": "94.6",
+"name": "ARGEȘ EXPRES FM",
+"theme": "Generalist",
+"owner": "SC ARGEȘ EXPRES PRESS SRL",
+"cov": "Locală"
+},
+{
+"loc": "CURTEA DE ARGEȘ",
+"jud": "ARGEȘ",
+"f": "90.9",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "DARABANI",
+"jud": "BOTOȘANI",
+"f": "97.6",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEJ",
+"jud": "CLUJ",
+"f": "97.9",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "DEJ",
+"jud": "CLUJ",
+"f": "94.8",
+"name": "EBS RADIO",
+"theme": "Generalist",
+"owner": "SC EBS REI SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEJ",
+"jud": "CLUJ",
+"f": "96.2",
+"name": "RADIOFIR",
+"theme": "Generalist",
+"owner": "SC ELIT MEDIA ADVERTISING SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEJ",
+"jud": "CLUJ",
+"f": "106.1",
+"name": "STIL FM",
+"theme": "Generalist",
+"owner": "SC RADIO STIL SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEJ",
+"jud": "CLUJ",
+"f": "87.7",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "96.3",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "91.6",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "94.4",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "107.0",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "92.6",
+"name": "BIG-FM",
+"theme": "Generalist",
+"owner": "SC BIG MEDIA ADVERT SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "95.9",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "101.6",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "107.7",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "95.5",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "89.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "93.5",
+"name": "M1 FM",
+"theme": "Generalist",
+"owner": "SC MEDIA ZONE UNU HD SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "98.8",
+"name": "SPORT TOTAL FM",
+"theme": "SPORTIV",
+"owner": "SC PUBLIVOL CREATIV SA",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "96.9",
+"name": "ALT FM",
+"theme": "EDUCATIV - RELIGIOS",
+"owner": "SC RADIO CNM SRL",
+"cov": "Locală"
+},
+{
+"loc": "DEVA",
+"jud": "HUNEDOARA",
+"f": "102.6",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DOBROGEA SUD",
+"jud": "CONSTANȚA",
+"f": "98.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "DOROHOI",
+"jud": "BOTOȘANI",
+"f": "93.9",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "DRĂGĂȘANI",
+"jud": "VÂLCEA",
+"f": "88.9",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "DRĂGĂȘANI",
+"jud": "VÂLCEA",
+"f": "98.6",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DRĂGĂNEȘTI-OLT",
+"jud": "OLT",
+"f": "106.6",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "90.4",
+"name": "RADIO LUMINA",
+"theme": "RELIGIOS",
+"owner": "EPISCOPIA SEVERINULUI ȘI STREHAIEI",
+"cov": "Locală"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "97.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "101.2",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "107.9",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "100.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT",
+"cov": "Rețea Națională"
+},
+{
+"loc": "DROBETA-TURNU",
+"jud": "MEHEDINȚI",
+"f": "100.5",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "DURĂU",
+"jud": "NEAMȚ",
+"f": "91.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "EFORIE",
+"jud": "CONSTANȚA",
+"f": "95.8",
+"name": "SWEET FM",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Regională (Județul CONSTANȚA)"
+},
+{
+"loc": "FĂGĂRAȘ",
+"jud": "BRAȘOV",
+"f": "90.2",
+"name": "RADIO STAR",
+"theme": "Generalist",
+"owner": "SC PROMOVARE MEDIA STAR SRL",
+"cov": "Locală"
+},
+{
+"loc": "FĂGĂRAȘ",
+"jud": "BRAȘOV",
+"f": "90.9",
+"name": "RADIO CLASIC FM",
+"theme": "Generalist",
+"owner": "SC RADIO CLASIC SRL",
+"cov": "Locală"
+},
+{
+"loc": "FĂGĂRAȘ",
+"jud": "BRAȘOV",
+"f": "88.2",
+"name": "RADIO SUPER FM",
+"theme": "Generalist",
+"owner": "SC REC PROMOVARE MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "FĂGĂRAȘ",
+"jud": "BRAȘOV",
+"f": "107.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "FĂGET",
+"jud": "TIMIȘ",
+"f": "95.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "FĂGET",
+"jud": "TIMIȘ",
+"f": "100.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "FĂLTICENI",
+"jud": "SUCEAVA",
+"f": "97.8",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "FETEȘTI",
+"jud": "IALOMIȚA",
+"f": "91.7",
+"name": "RADIO ORION",
+"theme": "Generalist",
+"owner": "SC AKCENT INFO TRUST SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "106.6",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "88.7",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "99.3",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "90.0",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "100.5",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "95.3",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "105.8",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "89.4",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "97.0",
+"name": "FOCUS FM FOCȘANI",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "97.7",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "FOCȘANI",
+"jud": "VRANCEA",
+"f": "102.0",
+"name": "SPORT TOTAL FM",
+"theme": "SPORTIV",
+"owner": "SC PUBLIVOL CREATIV SA",
+"cov": "Locală"
+},
+{
+"loc": "GĂEȘTI",
+"jud": "DÂMBOVIȚA",
+"f": "100.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "96.5",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "92.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "99.1",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "92.0",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "100.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "104.8",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "103.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "94.8",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "92.4",
+"name": "LIDER FM",
+"theme": "Generalist",
+"owner": "SC RADIO GALAȚI MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "GALAȚI",
+"jud": "GALAȚI",
+"f": "87.7",
+"name": "RADIO GALAȚI",
+"theme": "Generalist",
+"owner": "SC RADIO GALAȚI SRL",
+"cov": "Locală"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "89.7",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "93.0",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "104.7",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "91.2",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "91.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "100.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "90.6",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "GIURGIU",
+"jud": "GIURGIU",
+"f": "92.5",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GIURGIU",
+"jud": "GIURGIU",
+"f": "96.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "GIURGIU",
+"jud": "GIURGIU",
+"f": "107.1",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GIURGIU",
+"jud": "GIURGIU",
+"f": "89.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GIURGIU",
+"jud": "GIURGIU",
+"f": "91.3",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "GURA HUMORULUI",
+"jud": "SUCEAVA",
+"f": "92.0",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "GURA HUMORULUI",
+"jud": "SUCEAVA",
+"f": "93.5",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "HAȚEG",
+"jud": "HUNEDOARA",
+"f": "88.4",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "HAȚEG",
+"jud": "HUNEDOARA",
+"f": "100.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "HAȚEG",
+"jud": "HUNEDOARA",
+"f": "93.9",
+"name": "MONDO FM HAȚEG",
+"theme": "Generalist",
+"owner": "SC EXTOUR MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "HAȚEG",
+"jud": "HUNEDOARA",
+"f": "89.8",
+"name": "RADIO Q HAȚEG",
+"theme": "Generalist",
+"owner": "SC QUANTUM MEDIA PRESS SRL",
+"cov": "Locală"
+},
+{
+"loc": "HÂRȘOVA",
+"jud": "CONSTANȚA",
+"f": "98.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "HÂRLĂU",
+"jud": "IAȘI",
+"f": "94.0",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "HÂRLĂU",
+"jud": "IAȘI",
+"f": "92.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "HÂRLĂU",
+"jud": "IAȘI",
+"f": "87.6",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "HÂRLĂU",
+"jud": "IAȘI",
+"f": "105.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "HÂRLĂU",
+"jud": "IAȘI",
+"f": "107.4",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "HOREZU",
+"jud": "VÂLCEA",
+"f": "95.1",
+"name": "HIT FM",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUȘI",
+"jud": "VASLUI",
+"f": "97.6",
+"name": "SMILE FM HUȘI",
+"theme": "Generalist",
+"owner": "SC SMILE AUDIO PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUEDIN",
+"jud": "CLUJ",
+"f": "99.1",
+"name": "RADIO RENAȘTEREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA VADULUI, FELEACULUI ȘI CLUJULUI",
+"cov": "Locală"
+},
+{
+"loc": "HUEDIN",
+"jud": "CLUJ",
+"f": "89.2",
+"name": "RADIO DOR FM",
+"theme": "Generalist",
+"owner": "SC CLUJMEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUNEDOARA",
+"jud": "HUNEDOARA",
+"f": "95.1",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "HUNEDOARA",
+"jud": "HUNEDOARA",
+"f": "92.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUNEDOARA",
+"jud": "HUNEDOARA",
+"f": "88.9",
+"name": "BIG FM",
+"theme": "Generalist",
+"owner": "SC BIG MEDIA ADVERT SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUNEDOARA",
+"jud": "HUNEDOARA",
+"f": "93.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "HUNEDOARA",
+"jud": "HUNEDOARA",
+"f": "98.0",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "97.4",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "92.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "91.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "91.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "91.1",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "91.1",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "88.4",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "99.2",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "87.8",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "91.1",
+"name": "ROCK FM",
+"theme": "MUZICAL",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "106.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "104.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "98.6",
+"name": "ROMANTIC FM",
+"theme": "MUZICAL",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "94.9",
+"name": "RADIO HIT",
+"theme": "Generalist",
+"owner": "SC HIT MEDIA INVESTEMENTS SA",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "100.4",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "97.9",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "94.3",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "101.6",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "IAȘI",
+"jud": "IAȘI",
+"f": "105.0",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "INEU",
+"jud": "ARAD",
+"f": "102.4",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "IZVORU MUREȘULUI",
+"jud": "HARGHITA",
+"f": "103.9",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "LUDUȘ",
+"jud": "MUREȘ",
+"f": "100.4",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "LUDUȘ",
+"jud": "MUREȘ",
+"f": "94.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "LUGOJ",
+"jud": "TIMIȘ",
+"f": "91.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "LUGOJ",
+"jud": "TIMIȘ",
+"f": "95.5",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "LUGOJ",
+"jud": "TIMIȘ",
+"f": "90.2",
+"name": "JOY FM",
+"theme": "Generalist",
+"owner": "SC JOY MEDIA ENTERPRISE SRL",
+"cov": "Locală"
+},
+{
+"loc": "LUPENI",
+"jud": "HUNEDOARA",
+"f": "94.6",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "MAHMUDIA",
+"jud": "TULCEA",
+"f": "90.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MAHMUDIA - DELTA",
+"jud": "TULCEA",
+"f": "88.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "98.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "89.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "107.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "104.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "100.6",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "MARGHITA",
+"jud": "BIHOR",
+"f": "105.5",
+"name": "PLUSZ FM",
+"theme": "Generalist",
+"owner": "SC ȘTIREA SRL",
+"cov": "Locală"
+},
+{
+"loc": "MARGHITA",
+"jud": "BIHOR",
+"f": "95.8",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MEDGIDIA",
+"jud": "CONSTANȚA",
+"f": "89.9",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "MEDGIDIA",
+"jud": "CONSTANȚA",
+"f": "95.1",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "MEDGIDIA",
+"jud": "CONSTANȚA",
+"f": "93.5",
+"name": "NOSTALGIA RADIO",
+"theme": "Generalist",
+"owner": "SC NOSTALGIA RETRO DISCO FUTURE SRL",
+"cov": "Locală"
+},
+{
+"loc": "MEDGIDIA",
+"jud": "CONSTANȚA",
+"f": "97.5",
+"name": "RADIO TERRA",
+"theme": "Generalist",
+"owner": "SC TERRA INTER-MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "MEDIAȘ",
+"jud": "SIBIU",
+"f": "95.9",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "MEDIAȘ",
+"jud": "SIBIU",
+"f": "90.2",
+"name": "JURNAL FM",
+"theme": "CULTURAL - EDUCATIV",
+"owner": "FUNDAȚIA ÎMPREUNĂ PENTRU SOLIDARITATE SOCIALĂ",
+"cov": "Locală"
+},
+{
+"loc": "MEDIAȘ",
+"jud": "SIBIU",
+"f": "88.1",
+"name": "MEDIAȘ 725",
+"theme": "Generalist",
+"owner": "SC ICA MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "MEDIAȘ",
+"jud": "SIBIU",
+"f": "97.2",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "89.3",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "93.9",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "90.9",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "88.1",
+"name": "RADIO ERDELY FM",
+"theme": "Generalist",
+"owner": "SC ETV CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "106.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "87.6",
+"name": "RADIO FUN FM",
+"theme": "Generalist",
+"owner": "SC FS PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "88.7",
+"name": "RETRO RADIO",
+"theme": "Generalist",
+"owner": "SC FS PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "MIERCUREA CIUC",
+"jud": "HARGHITA",
+"f": "101.7",
+"name": "SZEPVIZ FM",
+"theme": "Generalist",
+"owner": "SC SZEPVIZ RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "MILA 23",
+"jud": "TULCEA",
+"f": "87.8",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "MOINEȘTI",
+"jud": "BACĂU",
+"f": "99.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MOLDOVA NOUĂ",
+"jud": "CARAȘ-SEVERIN",
+"f": "104.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MOLDOVA NOUĂ",
+"jud": "CARAȘ-SEVERIN",
+"f": "107.8",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "MOLDOVA NOUĂ",
+"jud": "CARAȘ-SEVERIN",
+"f": "106.6",
+"name": "9FM",
+"theme": "Generalist",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "MORENI",
+"jud": "DÂMBOVIȚA",
+"f": "94.4",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "MOROENI",
+"jud": "DÂMBOVIȚA",
+"f": "87.8",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "NĂSĂUD",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "95.8",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "NĂVODARI",
+"jud": "CONSTANȚA",
+"f": "98.2",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "NEGREȘTI",
+"jud": "VASLUI",
+"f": "105.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "NEGREȘTI",
+"jud": "VASLUI",
+"f": "93.2",
+"name": "RADIO VESEL",
+"theme": "Generalist",
+"owner": "SC SMILE AUDIO PRODUCTION SRL",
+"cov": "Regională (Județul VASLUI)"
+},
+{
+"loc": "NEGREȘTI-OAȘ",
+"jud": "SATU MARE",
+"f": "98.0",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "NEGREȘTI-OAȘ",
+"jud": "SATU MARE",
+"f": "107.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "NEGREȘTI-OAȘ",
+"jud": "SATU MARE",
+"f": "104.8",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "NEGREȘTI-OAȘ",
+"jud": "SATU MARE",
+"f": "96.0",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "NEHOIU",
+"jud": "BUZĂU",
+"f": "88.2",
+"name": "HIT FM",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "NEPTUN",
+"jud": "CONSTANȚA",
+"f": "97.4",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "NOVACI",
+"jud": "GORJ",
+"f": "100.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "NOVACI",
+"jud": "GORJ",
+"f": "87.8",
+"name": "RADIO INFINIT",
+"theme": "Generalist",
+"owner": "SC RADIO PANDURU SRL",
+"cov": "Locală"
+},
+{
+"loc": "NOVACI",
+"jud": "GORJ",
+"f": "96.2",
+"name": "RADIO ACCENT",
+"theme": "Generalist",
+"owner": "SC UNDA MEDIA SRL",
+"cov": "Regională (Județele GORJ, DOLJ, VÂLCEA, OLT și MEHEDINȚI)"
+},
+{
+"loc": "NUCET",
+"jud": "BIHOR",
+"f": "96.4",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "OCNA MUREȘ",
+"jud": "ALBA",
+"f": "97.4",
+"name": "RADIO DELTA",
+"theme": "Generalist",
+"owner": "SC DELTA PROFESSIONAL FM SRL",
+"cov": "Locală"
+},
+{
+"loc": "ODORHEIU",
+"jud": "HARGHITA",
+"f": "87.9",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "ODORHEIU",
+"jud": "HARGHITA",
+"f": "100.8",
+"name": "RADIO STAR",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP MARKET ADV SRL",
+"cov": "Locală"
+},
+{
+"loc": "ODORHEIU",
+"jud": "HARGHITA",
+"f": "90.9",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "OLTENIȚA",
+"jud": "CĂLĂRAȘI",
+"f": "97.3",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "OLTENIȚA",
+"jud": "CĂLĂRAȘI",
+"f": "88.2",
+"name": "STIL FM",
+"theme": "Generalist",
+"owner": "SC EAGLE MEDIA BROADCASTING SRL",
+"cov": "Locală"
+},
+{
+"loc": "OLTENIȚA",
+"jud": "CĂLĂRAȘI",
+"f": "99.4",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "OLTENIȚA",
+"jud": "CĂLĂRAȘI",
+"f": "94.0",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "92.7",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "87.8",
+"name": "JURNAL FM",
+"theme": "CULTURAL - EDUCATIV",
+"owner": "FUNDAȚIA ÎMPREUNĂ PENTRU SOLIDARITATE SOCIALĂ",
+"cov": "Locală"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "88.4",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "97.5",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "89.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "91.1",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "ONEȘTI",
+"jud": "BACĂU",
+"f": "92.2",
+"name": "RELEASE",
+"theme": "MUZICAL",
+"owner": "SC RELEASE COMPANY SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORȘOVA",
+"jud": "MEHEDINȚI",
+"f": "107.3",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "ORĂȘTIE",
+"jud": "HUNEDOARA",
+"f": "90.3",
+"name": "RADIO COLOR",
+"theme": "Generalist",
+"owner": "SC COLOR EXPRES SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORĂȘTIE",
+"jud": "HUNEDOARA",
+"f": "92.9",
+"name": "MELODY FM",
+"theme": "Generalist",
+"owner": "SC QUANTUM MEDIA PRESS SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "102.2",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "87.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "89.6",
+"name": "PLUSZ FM",
+"theme": "Generalist",
+"owner": "SC ȘTIREA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "99.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "98.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "107.0",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "107.6",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "92.6",
+"name": "FAVORIT FM",
+"theme": "FOLCLOR",
+"owner": "SC CLAS MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "93.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "93.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "97.2",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "ORADEA",
+"jud": "BIHOR",
+"f": "92.1",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "102.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "102.7",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "89.1",
+"name": "NEWS FM",
+"theme": "Generalist",
+"owner": "SC M.G.R. ADVERTISING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "90.1",
+"name": "RADIO M PLUS",
+"theme": "Generalist",
+"owner": "SC RADIO M PLUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "91.4",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PAȘCANI",
+"jud": "IAȘI",
+"f": "103.9",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PANCIU",
+"jud": "VRANCEA",
+"f": "93.0",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PÂRSCOV",
+"jud": "BUZĂU",
+"f": "89.7",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "96.0",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "93.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "104.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "98.5",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "92.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "90.1",
+"name": "MONDO FM PETROȘANI",
+"theme": "Generalist",
+"owner": "SC EXTOUR MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "105.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală (PETROȘANI și localitățile `nvecinate)"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "92.5",
+"name": "KAPITAL FM",
+"theme": "Generalist",
+"owner": "SC MEDIA STAR INTERNATIONAL SRL",
+"cov": "Locală"
+},
+{
+"loc": "PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "89.2",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "89.8",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "91.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "88.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "100.7",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "102.3",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "105.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "89.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "107.2",
+"name": "RADIO 1",
+"theme": "Generalist",
+"owner": "SC MEDIA 1 RADIO TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "88.6",
+"name": "RADIO M PLUS",
+"theme": "Generalist",
+"owner": "SC RADIO M PLUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "105.9",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "94.7",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "92.0",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "90.0",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "91.2",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "91.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "91.2",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "107.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "91.7",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "91.2",
+"name": "ROCK FM",
+"theme": "MUZICAL",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "95.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "88.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "105.7",
+"name": "MUNTENIA FM",
+"theme": "Generalist",
+"owner": "SC VAN BERRY BROADCASTING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "101.7",
+"name": "RADIO S.O.S. INTERDENOMI-",
+"theme": "RELIGIOS NAȚIONAL",
+"owner": "FUNDAȚIA HELP MINISTRIES ROMANIA",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "95.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "92.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "93.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "93.9",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "93.9",
+"name": "ONE FM MUZICAL",
+"theme": "DANCE",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "100.8",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "99.6",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "96.5",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "93.9",
+"name": "ROCK FM",
+"theme": "MUZICAL",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "88.3",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "107.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "105.7",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "95.9",
+"name": "FOCUS FM PLOIEȘTI",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "93.3",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PLOIEȘTI",
+"jud": "PRAHOVA",
+"f": "99.2",
+"name": "RADIO PRAHOVA",
+"theme": "Generalist",
+"owner": "SC PLOIEȘTI IMPORT EXPORT SRL",
+"cov": "Regională (Județul PRAHOVA)"
+},
+{
+"loc": "POIANA BRAȘOV",
+"jud": "BRAȘOV",
+"f": "101.9",
+"name": "FAVORIT FM",
+"theme": "FOLCLOR",
+"owner": "SC CLAS MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "PREDEAL",
+"jud": "BRAȘOV",
+"f": "92.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "PREDEAL",
+"jud": "BRAȘOV",
+"f": "103.0",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "PREDEAL",
+"jud": "BRAȘOV",
+"f": "90.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "PREDEAL",
+"jud": "BRAȘOV",
+"f": "101.1",
+"name": "SPORT TOTAL FM",
+"theme": "SPORTIV",
+"owner": "SC PUBLIVOL CREATIV SA",
+"cov": "Locală"
+},
+{
+"loc": "PUTNA",
+"jud": "SUCEAVA",
+"f": "94.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "PUTNA",
+"jud": "SUCEAVA",
+"f": "105.2",
+"name": "BUCOVINA FM",
+"theme": "Generalist",
+"owner": "SC GLOBAL RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "PUTNA",
+"jud": "SUCEAVA",
+"f": "101.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "RĂDĂUȚI",
+"jud": "SUCEAVA",
+"f": "97.8",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "RĂDĂUȚI",
+"jud": "SUCEAVA",
+"f": "90.1",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "RĂDĂUȚI",
+"jud": "SUCEAVA",
+"f": "99.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂȘNOV",
+"jud": "BRAȘOV",
+"f": "104.5",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Regională (Județul BRAȘOV)"
+},
+{
+"loc": "RÂMNICU SĂRAT",
+"jud": "BUZĂU",
+"f": "104.7",
+"name": "FOCUS FM",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "93.6",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "99.2",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "101.6",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "94.3",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "98.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "90.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "96.4",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "95.7",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "88.6",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "89.0",
+"name": "METRONOM FM",
+"theme": "Generalist",
+"owner": "SC RADIO METRONOM SRL",
+"cov": "Locală"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "91.5",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "97.0",
+"name": "SWEET FM",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Regională (Județele VÂLCEA și ARGEȘ)"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "92.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "97.1",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "97.9",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "101.2",
+"name": "BANAT FM",
+"theme": "Generalist",
+"owner": "SC BANAT MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "88.5",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "89.0",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "107.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "100.3",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "87.9",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "89.9",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "REȘIȚA",
+"jud": "CARAȘ-SEVERIN",
+"f": "94.8",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "REGHIN",
+"jud": "MUREȘ",
+"f": "87.8",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "REGHIN",
+"jud": "MUREȘ",
+"f": "94.7",
+"name": "RADIO GAGA REGHIN",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "REGHIN",
+"jud": "MUREȘ",
+"f": "96.3",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "ROȘIORI DE VEDE",
+"jud": "TELEORMAN",
+"f": "107.1",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ROȘIORI DE VEDE",
+"jud": "TELEORMAN",
+"f": "95.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ROȘIORI DE VEDE",
+"jud": "TELEORMAN",
+"f": "94.4",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "ROMAN",
+"jud": "NEAMȚ",
+"f": "87.9",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "ROMAN",
+"jud": "NEAMȚ",
+"f": "92.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ROMAN",
+"jud": "NEAMȚ",
+"f": "93.7",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "ROMAN",
+"jud": "NEAMȚ",
+"f": "94.2",
+"name": "ROMAN FM",
+"theme": "Generalist",
+"owner": "SC DORITHEA MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ROMAN",
+"jud": "NEAMȚ",
+"f": "91.0",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "RUPEA",
+"jud": "BRAȘOV",
+"f": "90.3",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SĂCELE",
+"jud": "BRAȘOV",
+"f": "89.5",
+"name": "RADIO ROCK SĂCELE MUZICĂ",
+"theme": "ROCK",
+"owner": "SC GLOBAL MEDIA & PR SRL",
+"cov": "Locală"
+},
+{
+"loc": "SÂNGEORZ-BĂI",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "87.9",
+"name": "SÂNGEORZ FM",
+"theme": "Generalist",
+"owner": "SC PATRYON INVEST SRL",
+"cov": "Locală"
+},
+{
+"loc": "SÂNGEORZ-BĂI",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "96.6",
+"name": "RADIO SOMEȘ",
+"theme": "TRADIȚII ȘI FOLCLOR",
+"owner": "SC TURISM SOMEȘ EVENT SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "92.3",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "107.9",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "94.9",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "104.0",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "96.5",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "90.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "88.7",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "94.0",
+"name": "RADIO UNU SATU MARE",
+"theme": "RELIGIOS",
+"owner": "SC RADIO 1 PLUS MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "99.0",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "SATU MARE",
+"jud": "SATU MARE",
+"f": "106.4",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "SCORNICEȘTI",
+"jud": "OLT",
+"f": "101.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "SEBEȘ",
+"jud": "ALBA",
+"f": "88.6",
+"name": "HIT FM ALBA",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Regională (Județul ALBA)"
+},
+{
+"loc": "SEBEȘ",
+"jud": "ALBA",
+"f": "90.1",
+"name": "RADIO STAR",
+"theme": "Generalist",
+"owner": "SC STAR MEDIA CREATIV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SEBIȘ",
+"jud": "ARAD",
+"f": "92.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SEBIȘ",
+"jud": "ARAD",
+"f": "89.7",
+"name": "RADIO FLACĂRA RUSALIILOR",
+"theme": "RELIGIOS",
+"owner": "SC ELDO POL SRL",
+"cov": "Locală"
+},
+{
+"loc": "SEBIȘ",
+"jud": "ARAD",
+"f": "93.6",
+"name": "ALT FM",
+"theme": "EDUCATIV - RELIGIOS",
+"owner": "SC RADIO CNM SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "91.6",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "103.0",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "88.7",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "90.2",
+"name": "NEMERE PENTRU",
+"theme": "PROGRAM COPII",
+"owner": "SC QUATTRO CONSULT SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "98.5",
+"name": "SEPSI RADIO",
+"theme": "Generalist",
+"owner": "SC SEPSI RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "91.0",
+"name": "WE RADIO",
+"theme": "Generalist",
+"owner": "SC STORMER SA",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "COVASNA",
+"f": "105.9",
+"name": "SLAGER RADIO",
+"theme": "Generalist",
+"owner": "SC TRANSPOLL MARKET NETWORK SERVICII SRL",
+"cov": "Locală"
+},
+{
+"loc": "SFÂNTU GHEORGHE",
+"jud": "TULCEA",
+"f": "89.9",
+"name": "RFM SFÂNTU GHEORGHE",
+"theme": "COMUNITAR",
+"owner": "ASOCIAȚIA MEDALERT",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "93.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "91.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "93.8",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "87.8",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "92.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "94.9",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "89.9",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "91.1",
+"name": "RADIO SIBIU",
+"theme": "Generalist",
+"owner": "SC CARGO SPED SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "88.4",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "106.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "96.1",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "96.6",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "98.3",
+"name": "CITY FM - SIBIU",
+"theme": "Generalist",
+"owner": "SC ICA MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "97.5",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "89.0",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "105.4",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "103.2",
+"name": "RADIO EVENIMENT",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "90.4",
+"name": "SWEET FM",
+"theme": "Generalist",
+"owner": "SC SCORPION IMPEX EVENIMENTUL SIBIAN SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIBIU",
+"jud": "SIBIU",
+"f": "89.4",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHETU MARMAȚIEI",
+"jud": "MARAMUREȘ",
+"f": "87.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIGHETU MARMAȚIEI",
+"jud": "MARAMUREȘ",
+"f": "89.3",
+"name": "SIGHET FM",
+"theme": "Generalist",
+"owner": "SC EXPRESS FM SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHETU MARMAȚIEI",
+"jud": "MARAMUREȘ",
+"f": "92.9",
+"name": "AUTENTIC FM",
+"theme": "FOLCLOR",
+"owner": "SC SIGHET MEDIA TRUST SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHETU MARMAȚIEI",
+"jud": "MARAMUREȘ",
+"f": "97.4",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "107.3",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "104.3",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "94.0",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "105.4",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "94.5",
+"name": "EBS RADIO",
+"theme": "Generalist",
+"owner": "SC EBS REI SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "105.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "SIGHIȘOARA",
+"jud": "MUREȘ",
+"f": "89.5",
+"name": "RADIO SON",
+"theme": "Generalist",
+"owner": "SC TELESON SRL",
+"cov": "Locală"
+},
+{
+"loc": "SINAIA",
+"jud": "PRAHOVA",
+"f": "104.7",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SINAIA",
+"jud": "PRAHOVA",
+"f": "93.3",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SINAIA",
+"jud": "PRAHOVA",
+"f": "103.6",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "96.7",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "94.6",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "107.4",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "94.1",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "98.8",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "90.3",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "92.4",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLATINA",
+"jud": "OLT",
+"f": "89.1",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "102.6",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "88.9",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "100.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "105.6",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "90.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "92.9",
+"name": "FOCUS FM",
+"theme": "Generalist",
+"owner": "SC MEDIA GRUP PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "87.7",
+"name": "RADIO CAMPUS",
+"theme": "Generalist",
+"owner": "SC RADIO CAMPUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "SNAGOV",
+"jud": "ILFOV",
+"f": "103.1",
+"name": "RADIO RFM",
+"theme": "Generalist",
+"owner": "SC PHG MEDIA INVEST SRL",
+"cov": "Locală"
+},
+{
+"loc": "SOVATA",
+"jud": "MUREȘ",
+"f": "102.0",
+"name": "RADIO GAGA SOVATA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "SOVATA",
+"jud": "MUREȘ",
+"f": "89.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "SOVEJA",
+"jud": "VRANCEA",
+"f": "88.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "102.7",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "89.9",
+"name": "ERCIS FM",
+"theme": "CULTURAL - RELIGIOS",
+"owner": "ASOCIAȚIA PRESA BUNĂ",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "106.9",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "102.2",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "99.0",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "90.4",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "92.4",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "103.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "88.6",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "107.7",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "105.5",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "100.4",
+"name": "IMPACT FM",
+"theme": "Generalist",
+"owner": "SC GLOBAL RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "95.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "91.5",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "97.1",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "104.0",
+"name": "RADIO TOP '91",
+"theme": "Generalist",
+"owner": "SC RADIO-TOP '91 SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "93.7",
+"name": "VIVA FM",
+"theme": "Generalist",
+"owner": "SC TIP RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "94.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "SULINA",
+"jud": "TULCEA",
+"f": "89.2",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "SULINA",
+"jud": "TULCEA",
+"f": "96.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TĂȘNAD",
+"jud": "SATU MARE",
+"f": "90.1",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "98.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "89.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "91.0",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "92.8",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "98.5",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "94.7",
+"name": "PULS FM",
+"theme": "Generalist",
+"owner": "SC IMAGE GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "88.1",
+"name": "MDI FM",
+"theme": "Generalist",
+"owner": "SC MD-I MEDIA REGIONAL SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "104.5",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "88.7",
+"name": "RADIO GUERRILLA TÂRGOVIȘTE",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "89.8",
+"name": "WHITE FM",
+"theme": "Generalist",
+"owner": "SC UNIVERSUL DÂMBOVIȚEAN SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGOVIȘTE",
+"jud": "DÂMBOVIȚA",
+"f": "90.5",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU BUJOR",
+"jud": "GALAȚI",
+"f": "90.8",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU CĂRBUNEȘTI",
+"jud": "GORJ",
+"f": "95.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "102.7",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "93.4",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "91.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "102.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "97.8",
+"name": "RADIO TÂRGU JIU",
+"theme": "Generalist",
+"owner": "SC COMIND GORJ SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "107.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "90.1",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "97.3",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "88.9",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "92.3",
+"name": "SUD FM",
+"theme": "INFORMATIV",
+"owner": "SC SUD MEDIA PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU JIU",
+"jud": "GORJ",
+"f": "91.8",
+"name": "RADIO OMEGA",
+"theme": "Generalist",
+"owner": "SC TROPHEN IMPEX SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "98.6",
+"name": "RADIO REÎNTREGIREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA ORTODOXĂ ROMÂNĂ ALBA IULIA",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "105.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "90.3",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "101.2",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "88.0",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "100.0",
+"name": "DANCE FM",
+"theme": "MUZICAL",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "89.1",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "101.6",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "88.4",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "106.4",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "97.1",
+"name": "RADIO ERDELY FM",
+"theme": "Generalist",
+"owner": "SC ETV CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "90.7",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "98.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "92.7",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU NEAMȚ",
+"jud": "NEAMȚ",
+"f": "106.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU NEAMȚ",
+"jud": "NEAMȚ",
+"f": "97.6",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "TÂRGU NEAMȚ",
+"jud": "NEAMȚ",
+"f": "95.7",
+"name": "RADIO M PLUS",
+"theme": "Generalist",
+"owner": "SC RADIO M PLUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU OCNA",
+"jud": "BACĂU",
+"f": "89.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TÂRGU SECUIESC",
+"jud": "COVASNA",
+"f": "95.0",
+"name": "RADIO SICULUS",
+"theme": "Generalist",
+"owner": "ASOCIAȚIA RADIO SICULUS - SICULUS RADIO EGYESULET",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU SECUIESC",
+"jud": "COVASNA",
+"f": "88.0",
+"name": "RADIO GAGA",
+"theme": "Generalist",
+"owner": "SC ALAMO IMPEX 97 SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRGU SECUIESC",
+"jud": "COVASNA",
+"f": "94.0",
+"name": "PROFI RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO 94 FM SRL",
+"cov": "Locală"
+},
+{
+"loc": "TÂRNĂVENI",
+"jud": "MUREȘ",
+"f": "87.7",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "TÂRNĂVENI",
+"jud": "MUREȘ",
+"f": "107.1",
+"name": "RADIO AS",
+"theme": "Generalist",
+"owner": "SC TV ADLER-TRADING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TECUCI",
+"jud": "GALAȚI",
+"f": "91.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "TECUCI",
+"jud": "GALAȚI",
+"f": "106.1",
+"name": "RADIO GALAȚI",
+"theme": "Generalist",
+"owner": "SC RADIO GALAȚI SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "93.3",
+"name": "RADIO BANAT LINK",
+"theme": "Generalist",
+"owner": "ASOCIAȚIA BANAT LINK",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "92.2",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "90.3",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "99.0",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "96.1",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "91.3",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "97.4",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "93.9",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "104.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "95.0",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "88.8",
+"name": "WEST CITY RADIO",
+"theme": "Generalist",
+"owner": "SC MEDIA SOUND SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "96.9",
+"name": "RFI ROMÂNIA",
+"theme": "Generalist",
+"owner": "SC RADIO FRANCE INTERNATIONALE ROMANIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "100.0",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "90.8",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "92.2",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "TITU",
+"jud": "DÂMBOVIȚA",
+"f": "91.9",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "TOPLIȚA",
+"jud": "HARGHITA",
+"f": "94.4",
+"name": "MARIA RADIO",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA \"MARIA RADIO ERDELY\"",
+"cov": "Locală"
+},
+{
+"loc": "TOPLIȚA",
+"jud": "HARGHITA",
+"f": "104.3",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TOPLIȚA",
+"jud": "HARGHITA",
+"f": "90.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TOPLIȚA",
+"jud": "HARGHITA",
+"f": "102.3",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TOPLIȚA",
+"jud": "HARGHITA",
+"f": "89.5",
+"name": "HIT FM HARGHITA",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Locală"
+},
+{
+"loc": "TOPOLOG",
+"jud": "TULCEA",
+"f": "90.6",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală (TOPOLOG și `mprejurimi)"
+},
+{
+"loc": "TOPOLOG",
+"jud": "TULCEA",
+"f": "88.3",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "93.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "104.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "91.4",
+"name": "IMPULS",
+"theme": "Generalist",
+"owner": "SC DOGAN MEDIA INTERNATIONAL SA",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "107.4",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "101.8",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "95.8",
+"name": "RADIO DELTA",
+"theme": "Generalist",
+"owner": "SC MEDIASET INTERNAȚIONAL SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "89.5",
+"name": "ITSY BITSY RADIO DESPRE",
+"theme": "PENTRU ȘI COPII",
+"owner": "SC ON AIR STUDIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "90.2",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "TULCEA",
+"jud": "TULCEA",
+"f": "107.9",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TURDA",
+"jud": "CLUJ",
+"f": "107.7",
+"name": "RADIO DOR FM",
+"theme": "Generalist",
+"owner": "SC CLUJMEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "TURDA",
+"jud": "CLUJ",
+"f": "89.9",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "TURNU MĂGURELE",
+"jud": "TELEORMAN",
+"f": "100.6",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "TURNU MĂGURELE",
+"jud": "TELEORMAN",
+"f": "90.7",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "TURNU MĂGURELE",
+"jud": "TELEORMAN",
+"f": "97.2",
+"name": "RADIO GALAXY",
+"theme": "Generalist",
+"owner": "SC GALAXY SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "URZICENI",
+"jud": "IALOMIȚA",
+"f": "91.8",
+"name": "FRESH FM",
+"theme": "Generalist",
+"owner": "SC FRESH NEWS SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "URZICENI",
+"jud": "IALOMIȚA",
+"f": "99.0",
+"name": "RADIO CAMPUS",
+"theme": "Generalist",
+"owner": "SC RADIO CAMPUS SRL",
+"cov": "Locală"
+},
+{
+"loc": "VĂRATEC",
+"jud": "MARAMUREȘ",
+"f": "88.4",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VĂRATEC",
+"jud": "MARAMUREȘ",
+"f": "98.1",
+"name": "MARAMUREȘ FM VĂRATEC",
+"theme": "Generalist",
+"owner": "SC XAOS REGIONAL MEDIA SRL",
+"cov": "Locală (Județul MARAMUREȘ și parțial județele BISTRIȚA- NĂSĂUD, CLUJ, SĂLAJ și SATU MARE)"
+},
+{
+"loc": "VÂRVORU DE JOS",
+"jud": "DOLJ",
+"f": "106.0",
+"name": "RFM VÂRVORU DE JOS",
+"theme": "COMUNITAR",
+"owner": "ASOCIAȚIA MEDALERT",
+"cov": "Locală"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "106.7",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "88.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "89.2",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "91.2",
+"name": "ROCK FM MUZICAL",
+"theme": "- ROCK CLASIC",
+"owner": "SC CANET RADIO SRL",
+"cov": "Locală"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "100.3",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "107.2",
+"name": "RADIO ZU",
+"theme": "Generalist",
+"owner": "SC GRUPUL MEDIA CAMINA (G.M.C.) SRL",
+"cov": "Locală"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "95.2",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "VASLUI",
+"jud": "VASLUI",
+"f": "89.7",
+"name": "SMILE FM VASLUI",
+"theme": "Generalist",
+"owner": "SC SMILE AUDIO PRODUCTION SRL",
+"cov": "Locală"
+},
+{
+"loc": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "91.4",
+"name": "ACTIV FM",
+"theme": "Generalist",
+"owner": "SC ACTIV MEDIA SERVICES SRL",
+"cov": "Rețea Regională"
+},
+{
+"loc": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "98.2",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "90.3",
+"name": "RADIO ORION",
+"theme": "Generalist",
+"owner": "SC CONFLUENȚE DORNENE MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "92.2",
+"name": "RADIO DORNA",
+"theme": "Generalist",
+"owner": "SC RADIO DORNA SRL",
+"cov": "Locală"
+},
+{
+"loc": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "93.9",
+"name": "RADIO GUERRILLA",
+"theme": "Generalist",
+"owner": "SC RADIO GUERRILLA SRL",
+"cov": "Locală"
+},
+{
+"loc": "VIȘEU DE SUS",
+"jud": "MARAMUREȘ",
+"f": "107.1",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VIDELE",
+"jud": "TELEORMAN",
+"f": "90.4",
+"name": "PRO FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Locală"
+},
+{
+"loc": "VOINEASA",
+"jud": "VÂLCEA",
+"f": "107.6",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VOINEASA",
+"jud": "VÂLCEA",
+"f": "104.2",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "VOINEASA",
+"jud": "VÂLCEA",
+"f": "97.9",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZĂRNEȘTI",
+"jud": "BRAȘOV",
+"f": "88.2",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZĂRNEȘTI",
+"jud": "BRAȘOV",
+"f": "94.2",
+"name": "HIT FM BRAȘOV",
+"theme": "Generalist",
+"owner": "SC HITFM GROUP SRL",
+"cov": "Regională (Județul BRAȘOV)"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "92.5",
+"name": "RADIO MARIA",
+"theme": "RELIGIOS",
+"owner": "ASOCIAȚIA RADIO MARIA ROMÂNIA",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "93.1",
+"name": "RADIO TRINITAS",
+"theme": "RELIGIOS",
+"owner": "PATRIARHIA ROMÂNĂ - ADMINISTRAȚIA PATRIARHALĂ",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "91.5",
+"name": "KISS FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "96.4",
+"name": "MAGIC FM",
+"theme": "Generalist",
+"owner": "SC A.G. RADIO HOLDING SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "90.3",
+"name": "FAVORIT FM",
+"theme": "MUZICAL / FOLCLOR",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "95.8",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "101.6",
+"name": "DIGI FM",
+"theme": "Generalist",
+"owner": "SC CAMPUS MEDIA TV SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "102.7",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "90.8",
+"name": "POWER FM",
+"theme": "Generalist",
+"owner": "SC POWER MEDIA SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "94.6",
+"name": "RADIO TRANSILVANIA",
+"theme": "Generalist",
+"owner": "SC RADIO TRANSILVANIA LBM SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "97.7",
+"name": "VIRGIN RADIO",
+"theme": "Generalist",
+"owner": "SC RADIO XXI SRL",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "94.0",
+"name": "VOCEA EVANGHELIEI VIAȚĂ",
+"theme": "SPIRITUALĂ ȘI CULTURĂ",
+"owner": "SC VOCEA EVANGHELIEI SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "103.3",
+"name": "CITY RADIO",
+"theme": "Generalist",
+"owner": "SC VOICE MEDIA CENTER SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZIMNICEA",
+"jud": "TELEORMAN",
+"f": "104.5",
+"name": "RADIO VOCEA SPERANȚEI",
+"theme": "RELIGIOS - CULTURAL",
+"owner": "ASOCIAȚIA CENTRUL MEDIA ADVENTIST",
+"cov": "Locală"
+},
+{
+"loc": "ZIMNICEA",
+"jud": "TELEORMAN",
+"f": "94.0",
+"name": "NAȚIONAL FM",
+"theme": "Generalist",
+"owner": "SC ABC PLUS MEDIA SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZIMNICEA",
+"jud": "TELEORMAN",
+"f": "107.3",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+},
+{
+"loc": "ZIMNICEA",
+"jud": "TELEORMAN",
+"f": "96.1",
+"name": "VIBE FM ROMÂNEASCĂ",
+"theme": "MUZICĂ",
+"owner": "SC RADIO XXI SRL",
+"cov": "Locală"
+},
+{
+"loc": "ZLATNA",
+"jud": "ALBA",
+"f": "97.3",
+"name": "RADIO REÎNTREGIREA",
+"theme": "RELIGIOS",
+"owner": "ARHIEPISCOPIA ORTODOXĂ ROMÂNĂ ALBA IULIA",
+"cov": "Locală"
+},
+{
+"loc": "ȘTEI",
+"jud": "BIHOR",
+"f": "102.0",
+"name": "EUROPA FM",
+"theme": "Generalist",
+"owner": "SC EUROPE DEVELOPPEMENT INTERNATIONAL-R SA",
+"cov": "Rețea Națională"
+}
+],
+"srr": [
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ALBA IULIA",
+"jud": "ALBA",
+"f": "104.3"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "91.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ARAD - ȘIRIA",
+"jud": "ARAD",
+"f": "103.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BACĂU",
+"jud": "BACĂU",
+"f": "98.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BAIA MARE - MOGOȘA",
+"jud": "MARAMUREȘ",
+"f": "102.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BALOTA - DR. TR. SEVERIN",
+"jud": "MEHEDINȚI",
+"f": "91.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BECHET - DĂBULENI",
+"jud": "DOLJ",
+"f": "99.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BICAZ",
+"jud": "NEAMȚ",
+"f": "87.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BIHOR",
+"jud": "BIHOR",
+"f": "91.0"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BRAN",
+"jud": "BRAȘOV",
+"f": "103.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "102.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BUCEGI - COȘTILA",
+"jud": "PRAHOVA",
+"f": "102.2"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BUCUREȘTI - HERĂSTRĂU",
+"jud": "BUCUREȘTI",
+"f": "105.3"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BUZĂU - ISTRIȚA",
+"jud": "BUZĂU",
+"f": "107.0"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BĂNEASA - DOBROGEA SUD",
+"jud": "CONSTANȚA",
+"f": "106.6"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "BÂRLAD",
+"jud": "VASLUI",
+"f": "103.9"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CALAFAT - PLENIȚA",
+"jud": "DOLJ",
+"f": "90.2"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CERBU - NOVACI",
+"jud": "GORJ",
+"f": "92.9"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CLUJ - FELEAC",
+"jud": "CLUJ",
+"f": "88.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "104.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "102.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "COZIA",
+"jud": "VÂLCEA",
+"f": "103.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CRAIOVA - SIMNIC",
+"jud": "DOLJ",
+"f": "88.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "CĂLĂRAȘI",
+"jud": "CĂLĂRAȘI",
+"f": "89.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "DRAGOȘ VODĂ",
+"jud": "CĂLĂRAȘI",
+"f": "106.2"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "EFORIE",
+"jud": "CONSTANȚA",
+"f": "105.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "FĂGET",
+"jud": "TIMIȘ",
+"f": "89.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "88.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "GIURGIU",
+"jud": "GIURGIU",
+"f": "104.6"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "GURA TEGHII - FURTUNEȘTI",
+"jud": "BUZĂU",
+"f": "101.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "HARGHITA - GHEORGHENI",
+"jud": "HARGHITA",
+"f": "103.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "HENIU",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "103.9"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "HERCULANE",
+"jud": "CARAȘ-SEVERIN",
+"f": "97.3"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "HUȘI",
+"jud": "VASLUI",
+"f": "101.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "IAȘI",
+"jud": "IAȘI",
+"f": "101.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MAHMUDIA - DELTA",
+"jud": "TULCEA",
+"f": "100.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "102.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MEDGIDIA",
+"jud": "CONSTANȚA",
+"f": "101.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MOLDOVA NOUĂ",
+"jud": "CARAȘ-SEVERIN",
+"f": "105.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MĂGURA BOIU",
+"jud": "HUNEDOARA",
+"f": "103.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "MĂGURA ODOBEȘTI - FOCȘANI",
+"jud": "VRANCEA",
+"f": "102.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "NEGREȘTI-OAȘ",
+"jud": "SATU MARE",
+"f": "89.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "OLTENIȚA",
+"jud": "CĂLĂRAȘI",
+"f": "91.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ORADEA",
+"jud": "BIHOR",
+"f": "104.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ORȘOVA",
+"jud": "MEHEDINȚI",
+"f": "104.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "PARÂNG - PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "88.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "103.6"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "PITEȘTI",
+"jud": "ARGEȘ",
+"f": "90.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "RARĂU",
+"jud": "SUCEAVA",
+"f": "96.0"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ROMAN",
+"jud": "NEAMȚ",
+"f": "105.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SATU MARE",
+"jud": "SATU MARE",
+"f": "101.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SEMENIC",
+"jud": "CARAȘ-SEVERIN",
+"f": "102.5"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SIBIU - ONCEȘTI",
+"jud": "SIBIU",
+"f": "101.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SIGHET",
+"jud": "MARAMUREȘ",
+"f": "106.2"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SLATINA",
+"jud": "OLT",
+"f": "105.9"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "96.3"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "99.6"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SULINA",
+"jud": "TULCEA",
+"f": "100.9"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "SĂVENI - BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "100.8"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "TOPLIȚA - BORSEC",
+"jud": "HARGHITA",
+"f": "101.0"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "TOPOLOG",
+"jud": "TULCEA",
+"f": "105.0"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "TULCEA",
+"jud": "TULCEA",
+"f": "99.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "TURNU MĂGURELE",
+"jud": "TELEORMAN",
+"f": "105.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "93.6"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "URSENI - TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "106.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "VASLUI",
+"jud": "VASLUI",
+"f": "106.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "100.7"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "VĂCĂRENI",
+"jud": "GALAȚI",
+"f": "106.4"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "VĂRATEC",
+"jud": "MARAMUREȘ",
+"f": "91.2"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "88.1"
+},
+{
+"name": "RADIO ROMÂNIA ACTUALITĂȚI",
+"site": "ZIMNICEA",
+"jud": "TELEORMAN",
+"f": "90.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "ALEXANDRIA",
+"jud": "TELEORMAN",
+"f": "89.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "ARAD - ȘIRIA",
+"jud": "ARAD",
+"f": "106.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BACĂU",
+"jud": "BACĂU",
+"f": "101.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BALOTA - DR. TR. SEVERIN",
+"jud": "MEHEDINȚI",
+"f": "105.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BECHET - DĂBULENI",
+"jud": "DOLJ",
+"f": "91.2"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BIHOR",
+"jud": "BIHOR",
+"f": "105.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "105.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BUCEGI - COȘTILA",
+"jud": "PRAHOVA",
+"f": "104.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BUCUREȘTI - HERĂSTRĂU",
+"jud": "BUCUREȘTI",
+"f": "101.3"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BUZĂU - ISTRIȚA",
+"jud": "BUZĂU",
+"f": "103.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BĂNEASA - DOBROGEA SUD",
+"jud": "CONSTANȚA",
+"f": "89.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "BÂRLAD",
+"jud": "VASLUI",
+"f": "102.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "CALAFAT - PLENIȚA",
+"jud": "DOLJ",
+"f": "101.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "CERBU - NOVACI",
+"jud": "GORJ",
+"f": "89.5"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "CLUJ - FELEAC",
+"jud": "CLUJ",
+"f": "101.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "101.4"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "COZIA",
+"jud": "VÂLCEA",
+"f": "102.5"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "GIURGIU",
+"jud": "GIURGIU",
+"f": "102.6"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "HENIU",
+"jud": "BISTRIȚA-NĂSĂUD",
+"f": "101.3"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "HUȘI",
+"jud": "VASLUI",
+"f": "103.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "IAȘI",
+"jud": "IAȘI",
+"f": "103.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MAHMUDIA - DELTA",
+"jud": "TULCEA",
+"f": "102.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "92.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MOGOȘA - BAIA MARE",
+"jud": "MARAMUREȘ",
+"f": "100.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MOLDOVA NOUĂ",
+"jud": "CARAȘ-SEVERIN",
+"f": "93.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MĂGURA BOIU",
+"jud": "HUNEDOARA",
+"f": "105.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "MĂGURA ODOBEȘTI - FOCȘANI",
+"jud": "VRANCEA",
+"f": "101.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "ORADEA",
+"jud": "BIHOR",
+"f": "96.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "PARÂNG - PETROȘANI",
+"jud": "HUNEDOARA",
+"f": "90.6"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "PIATRA NEAMȚ",
+"jud": "NEAMȚ",
+"f": "100.3"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "RARĂU",
+"jud": "SUCEAVA",
+"f": "98.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "SIBIU - ONCEȘTI",
+"jud": "SIBIU",
+"f": "103.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "SLOBOZIA",
+"jud": "IALOMIȚA",
+"f": "104.5"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "SUCEAVA",
+"jud": "SUCEAVA",
+"f": "101.6"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "SĂVENI - BOTOȘANI",
+"jud": "BOTOȘANI",
+"f": "106.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "TOPLIȚA - BORSEC",
+"jud": "HARGHITA",
+"f": "98.4"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "TOPOLOG",
+"jud": "TULCEA",
+"f": "103.0"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "TULCEA",
+"jud": "TULCEA",
+"f": "105.4"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "TURNU MĂGURELE",
+"jud": "TELEORMAN",
+"f": "101.1"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "104.9"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "URSENI - TIMIȘOARA",
+"jud": "TIMIȘ",
+"f": "100.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "VASLUI",
+"jud": "VASLUI",
+"f": "102.4"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "VATRA DORNEI",
+"jud": "SUCEAVA",
+"f": "107.7"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "VĂCĂRENI",
+"jud": "GALAȚI",
+"f": "101.6"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "VĂRATEC",
+"jud": "MARAMUREȘ",
+"f": "100.8"
+},
+{
+"name": "RADIO ROMÂNIA CULTURAL",
+"site": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "105.0"
+},
+{
+"name": "RADIO ROMÂNIA MUZICAL GEORGE ENESCU",
+"site": "BUCEGI - COȘTILA",
+"jud": "PRAHOVA",
+"f": "97.6"
+},
+{
+"name": "RADIO ROMÂNIA MUZICAL GEORGE ENESCU",
+"site": "BUCUREȘTI - HERĂSTRĂU",
+"jud": "BUCUREȘTI",
+"f": "104.8"
+},
+{
+"name": "RADIO ROMÂNIA MUZICAL GEORGE ENESCU",
+"site": "IAȘI",
+"jud": "IAȘI",
+"f": "95.4"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "COMĂNEȘTI",
+"jud": "BACĂU",
+"f": "89.0"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "DRĂGĂȘANI",
+"jud": "VÂLCEA",
+"f": "88.0"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "MOTRU",
+"jud": "GORJ",
+"f": "93.9"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "SIGHETU MARMAȚIEI",
+"jud": "MARAMUREȘ",
+"f": "93.8"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "SULINA",
+"jud": "TULCEA",
+"f": "103.2"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "TÂRGU BUJOR",
+"jud": "GALAȚI",
+"f": "99.7"
+},
+{
+"name": "ANTENA SATELOR",
+"site": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "106.9"
+},
+{
+"name": "ANTENA SIBIULUI",
+"site": "SIBIU",
+"jud": "SIBIU",
+"f": "95.4"
+},
+{
+"name": "ARAD FM",
+"site": "ARAD",
+"jud": "ARAD",
+"f": "102.9"
+},
+{
+"name": "ARAD FM",
+"site": "FĂGET - COȘEVIȚA",
+"jud": "TIMIȘ",
+"f": "103.6"
+},
+{
+"name": "ARAD FM",
+"site": "PETROȘANI - PARÂNG",
+"jud": "HUNEDOARA",
+"f": "101.5"
+},
+{
+"name": "BUCUREȘTI FM",
+"site": "BUCUREȘTI - HERĂSTRĂU",
+"jud": "BUCUREȘTI",
+"f": "98.3"
+},
+{
+"name": "RADIO CLUJ",
+"site": "CLUJ - FELEAC",
+"jud": "CLUJ",
+"f": "95.6"
+},
+{
+"name": "RADIO CLUJ",
+"site": "CLUJ - FELEAC",
+"jud": "CLUJ",
+"f": "98.8"
+},
+{
+"name": "RADIO CLUJ",
+"site": "HUEDIN",
+"jud": "CLUJ",
+"f": "97.3"
+},
+{
+"name": "RADIO CLUJ",
+"site": "NEGREȘTI-OAȘ (Vf. Jeleznic)",
+"jud": "SATU MARE",
+"f": "93.3"
+},
+{
+"name": "RADIO CLUJ",
+"site": "SATU MARE",
+"jud": "SATU MARE",
+"f": "87.9"
+},
+{
+"name": "RADIO CLUJ",
+"site": "SIBIU",
+"jud": "SIBIU",
+"f": "95.4"
+},
+{
+"name": "RADIO CLUJ",
+"site": "SIGHET",
+"jud": "MARAMUREȘ",
+"f": "101.7"
+},
+{
+"name": "RADIO CLUJ",
+"site": "ZALĂU",
+"jud": "SĂLAJ",
+"f": "89.6"
+},
+{
+"name": "RADIO CONSTANȚA",
+"site": "CONSTANȚA",
+"jud": "CONSTANȚA",
+"f": "100.1"
+},
+{
+"name": "RADIO CONSTANȚA",
+"site": "EFORIE",
+"jud": "CONSTANȚA",
+"f": "90.8"
+},
+{
+"name": "RADIO CONSTANȚA",
+"site": "MANGALIA",
+"jud": "CONSTANȚA",
+"f": "100.1"
+},
+{
+"name": "RADIO CONSTANȚA",
+"site": "SULINA",
+"jud": "TULCEA",
+"f": "106.2"
+},
+{
+"name": "RADIO CONSTANȚA",
+"site": "TULCEA",
+"jud": "TULCEA",
+"f": "93.0"
+},
+{
+"name": "RADIO IAȘI",
+"site": "HUȘI",
+"jud": "VASLUI",
+"f": "94.5"
+},
+{
+"name": "RADIO IAȘI",
+"site": "IAȘI - PIETRĂRIA",
+"jud": "IAȘI",
+"f": "96.3"
+},
+{
+"name": "RADIO IAȘI",
+"site": "RARĂU",
+"jud": "SUCEAVA",
+"f": "90.8"
+},
+{
+"name": "RADIO OLTENIA CRAIOVA",
+"site": "CERBU - NOVACI",
+"jud": "GORJ",
+"f": "105.0"
+},
+{
+"name": "RADIO OLTENIA CRAIOVA",
+"site": "CRAIOVA - SIMNIC",
+"jud": "DOLJ",
+"f": "102.9"
+},
+{
+"name": "RADIO OLTENIA CRAIOVA",
+"site": "RÂMNICU VÂLCEA",
+"jud": "VÂLCEA",
+"f": "99.8"
+},
+{
+"name": "RADIO REȘIȚA",
+"site": "BERZASCA",
+"jud": "CARAȘ-SEVERIN",
+"f": "92.8"
+},
+{
+"name": "RADIO REȘIȚA",
+"site": "MOLDOVA NOUĂ - POJEJENA",
+"jud": "CARAȘ-SEVERIN",
+"f": "91.9"
+},
+{
+"name": "RADIO REȘIȚA",
+"site": "REȘIȚA - SEMENIC",
+"jud": "CARAȘ-SEVERIN",
+"f": "105.6"
+},
+{
+"name": "RADIO ROMÂNIA BRAȘOV FM",
+"site": "BRAȘOV",
+"jud": "BRAȘOV",
+"f": "93.3"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "BORSEC",
+"jud": "HARGHITA",
+"f": "94.9"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "GHEORGHENI",
+"jud": "HARGHITA",
+"f": "92.3"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "HARGHITA - GHEORGHENI",
+"jud": "HARGHITA",
+"f": "98.9"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "HARGHITA - GHEORGHENI",
+"jud": "HARGHITA",
+"f": "106.8"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "TÂRGU MUREȘ",
+"jud": "MUREȘ",
+"f": "96.0"
+},
+{
+"name": "RADIO TÂRGU MUREȘ",
+"site": "TÂRGU MUREȘ - CORNEȘTI",
+"jud": "MUREȘ",
+"f": "102.9"
+},
+{
+"name": "RADIO TIMIȘOARA",
+"site": "ARAD",
+"jud": "ARAD",
+"f": "102.9"
+},
+{
+"name": "RADIO TIMIȘOARA",
+"site": "FĂGET - COȘEVIȚA",
+"jud": "TIMIȘ",
+"f": "103.6"
+},
+{
+"name": "RADIO TIMIȘOARA",
+"site": "PETROȘANI - PARÂNG",
+"jud": "HUNEDOARA",
+"f": "101.5"
+},
+{
+"name": "RADIO TIMIȘOARA",
+"site": "TIMIȘOARA - URSENI",
+"jud": "TIMIȘ",
+"f": "105.9"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 1",
+"site": "GALBENI - 1",
+"jud": "BACĂU",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 1",
+"site": "GALBENI - 2",
+"jud": "BACĂU",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 1",
+"site": "ȚIGĂNEȘTI - 1",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 1",
+"site": "ȚIGĂNEȘTI - 2",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 1",
+"site": "ȚIGĂNEȘTI - 3",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 2",
+"site": "GALBENI - 1",
+"jud": "BACĂU",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 2",
+"site": "GALBENI - 2",
+"jud": "BACĂU",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 2",
+"site": "ȚIGĂNEȘTI - 1",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 2",
+"site": "ȚIGĂNEȘTI - 2",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 2",
+"site": "ȚIGĂNEȘTI - 3",
+"jud": "ILFOV",
+"f": "21.0"
+},
+{
+"name": "ROMÂNIA INTERNAȚIONAL 3",
+"site": "SĂFTICA",
+"jud": "ILFOV",
+"f": "21.0"
+}
+]
+}

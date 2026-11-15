@@ -1,0 +1,7 @@
+__pycache__/
+*.tmp
+.DS_Store
+data/raw/rb-all.json
+data/raw/rb-ro.json
+data/raw/check.json
+data/cache/*.pdf

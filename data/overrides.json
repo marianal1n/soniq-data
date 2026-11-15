@@ -1,0 +1,316 @@
+{
+  "drop": [
+    "HERMES-TEST",
+    "^Station Offline$",
+    "\\bTV\\b",
+    "^One World Radio$",
+    "Arhiva",
+    "International 3$",
+    "Radio Timișoara 630 AM",
+    "Targu Mures AM",
+    "^RoHolyDoctor$",
+    "^https://",
+    "^RadioTrandafirulRoșul$"
+  ],
+  "rules": {
+    "^Radio Iasi Fm$|^Radio România Iași$": {
+      "type": "l",
+      "county": "IS",
+      "city": "Iași",
+      "name": "Radio Iași",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "^Radio Cluj$|^Radio România Cluj$": {
+      "type": "l",
+      "county": "CJ",
+      "city": "Cluj-Napoca",
+      "name": "Radio Cluj",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "^Radio Timișoara$": {
+      "type": "l",
+      "county": "TM",
+      "city": "Timișoara",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "Oltenia Craiova|România Oltenia": {
+      "type": "l",
+      "county": "DJ",
+      "city": "Craiova",
+      "name": "Radio Oltenia Craiova",
+      "genres": [
+        "stiri",
+        "populara"
+      ]
+    },
+    "^Radio Romania Constanta$|^Radio Constanta FM$": {
+      "type": "l",
+      "county": "CT",
+      "city": "Constanța",
+      "name": "Radio Constanța",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "^Radio Romania Targu Mures$": {
+      "type": "l",
+      "county": "MS",
+      "city": "Târgu Mureș",
+      "name": "Radio Târgu Mureș",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "Marosvásárhelyi": {
+      "type": "l",
+      "county": "MS",
+      "city": "Târgu Mureș",
+      "name": "Marosvásárhelyi Rádió",
+      "genres": [
+        "maghiar",
+        "stiri"
+      ]
+    },
+    "^Radio Resita$": {
+      "type": "l",
+      "county": "CS",
+      "city": "Reșița",
+      "name": "Radio Reșița",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "^Radio România Brașov$": {
+      "type": "l",
+      "county": "BV",
+      "city": "Brașov",
+      "name": "Radio România Brașov FM",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "^Radio Romania Sighet$|^Radio Sighet FM$": {
+      "type": "l",
+      "county": "MM",
+      "city": "Sighetu Marmației",
+      "name": "Radio Sighet",
+      "genres": [
+        "stiri",
+        "populara"
+      ]
+    },
+    "^Radio Vacan[tț]a$": {
+      "type": "l",
+      "county": "CT",
+      "city": "Constanța",
+      "name": "Radio Vacanța",
+      "genres": [
+        "pop",
+        "oldies"
+      ]
+    },
+    "^Radio Bucuresti FM$|^Bucuresti FM$": {
+      "type": "l",
+      "county": "B",
+      "city": "București",
+      "name": "Radio România București FM",
+      "genres": [
+        "stiri",
+        "pop"
+      ]
+    },
+    "Radio Antena Bra": {
+      "type": "l",
+      "county": "BV",
+      "city": "Brașov",
+      "name": "Radio Antena Brașovului"
+    },
+    "Radio 3 ?Net|Radio România 3 ?Net": {
+      "type": "o",
+      "county": "B",
+      "city": "București",
+      "name": "Radio România 3Net",
+      "genres": [
+        "pop",
+        "rock"
+      ]
+    },
+    "Gyergyói Székely|Székely Rádió Gyergyói": {
+      "type": "l",
+      "county": "HR",
+      "city": "Gheorgheni",
+      "name": "Gyergyói Székely Rádió",
+      "genres": [
+        "maghiar"
+      ]
+    },
+    "^Transilvania|^Radio Transilvania": {
+      "name": "Radio Transilvania"
+    },
+    "GaGa Csíkszék": {
+      "county": "HR",
+      "city": "Miercurea Ciuc"
+    },
+    "GaGa Gyergyószék": {
+      "county": "HR",
+      "city": "Gheorgheni"
+    },
+    "GaGa Udvarhelyszék": {
+      "county": "HR",
+      "city": "Odorheiu Secuiesc"
+    },
+    "GaGa Háromszék": {
+      "county": "CV",
+      "city": "Sfântu Gheorghe"
+    },
+    "GaGa Marosszék": {
+      "county": "MS",
+      "city": "Târgu Mureș"
+    },
+    "^Sepsi Rádió": {
+      "city": "Sfântu Gheorghe"
+    },
+    "^RVE Brașov": {
+      "name": "RVE Brașov",
+      "city": "Brașov"
+    },
+    "^RVE Cluj": {
+      "name": "RVE Cluj",
+      "city": "Cluj-Napoca",
+      "type": "l"
+    },
+    "^RVE Oradea Live": {
+      "name": "RVE Oradea"
+    },
+    "^RVE Satu Mare": {
+      "type": "l"
+    },
+    "Radio Vocea Evangheliei RVE Oradea": {
+      "name": "RVE Oradea",
+      "type": "l",
+      "city": "Oradea"
+    },
+    "^Sky FM - Radio Sky": {
+      "name": "Radio Sky",
+      "city": "Constanța"
+    },
+    "^Radio Sky FM$": {
+      "name": "Radio Sky",
+      "type": "l",
+      "city": "Constanța"
+    },
+    "Focus FM Regional -Vrancea": {
+      "city": "Focșani",
+      "county": "VN"
+    },
+    "^Csángó": {
+      "name": "Csángó Rádió",
+      "city": "Bacău",
+      "type": "l"
+    },
+    "Muscel FM": {
+      "city": "Câmpulung",
+      "county": "AG"
+    },
+    "Radio Orion FM -Câmpulung": {
+      "city": "Câmpulung",
+      "county": "AG"
+    },
+    "^Glasul Nordului 2": {
+      "name": "Jurnal FM",
+      "city": "Hudești"
+    },
+    "^Jurnal FM$": {
+      "skip": true
+    },
+    "^Radaio Romance21": {
+      "name": "Radio Romance 21"
+    },
+    "Oldies Romannia": {
+      "name": "Radio Oldies România"
+    },
+    "Bella Eomania": {
+      "name": "Radio Bella România"
+    },
+    "radio teatru": {
+      "name": "Radio Teatru România"
+    },
+    "^radiohit24": {
+      "name": "Radio Hit 24"
+    },
+    "^Superstar_Vip": {
+      "name": "Superstar VIP"
+    },
+    "^PlayRadio Urban|^Play Urban": {
+      "name": "Play Urban",
+      "city": "Constanța",
+      "county": "CT"
+    },
+    "^Kolozsvári Rádió$": {
+      "type": "l",
+      "county": "CJ",
+      "city": "Cluj-Napoca",
+      "genres": [
+        "maghiar",
+        "stiri"
+      ]
+    },
+    "^We Radio$": {
+      "type": "l"
+    },
+    "^Vox FM": {
+      "type": "l",
+      "name": "Vox FM"
+    },
+    "^Radio M Plus": {
+      "type": "l",
+      "name": "Radio M Plus"
+    },
+    "^radio SOMEȘ$": {
+      "name": "Someș Radio"
+    },
+    "^DaciaProArgeș": {
+      "name": "Dacia Pro Argeș",
+      "city": "Pitești",
+      "county": "AG"
+    },
+    "^USV Radio": {
+      "name": "USV Radio",
+      "city": "Suceava",
+      "county": "SV"
+    },
+    "^GherlaFM$": {
+      "name": "Gherla FM",
+      "county": "CJ"
+    },
+    "^PluszFM$": {
+      "name": "Plusz FM Nagyvárad",
+      "county": "BH"
+    },
+    "^Radio ASCOR": {
+      "name": "Radio ASCOR",
+      "type": "o"
+    }
+  },
+  "logos": {
+    "europa-fm": "https://www.europafm.ro/icons/apple-touch-icon.png",
+    "radio-romania-actualitati": "https://www.romania-actualitati.ro/templates/favicon/apple-touch-icon.png",
+    "radio-romania-cultural": "https://www.radioromaniacultural.ro/templates/favicon/apple-touch-icon.png",
+    "radio-romania-international": "https://www.rri.ro/wp-content/themes/rri/images/favicons/favicon.png",
+    "national-fm": "https://www.nationalfm.ro/assets/apple-touch-icon.png",
+    "radio-impuls": "https://cdn.knd.ro/media/521/2942/static/favicons/android-icon-192x192.png"
+  }
+}
