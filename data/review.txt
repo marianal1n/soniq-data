@@ -2,7 +2,7 @@ n --  Antena Satelor                                                populara,sti
 n --  Dance FM                                                      dance                      mp3* https://edge126.rcs-rds.ro/profm/dancefm.mp3
 n --  Digi FM                                                       pop,stiri                  mp3* http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 n --  Digi24 FM                                                     stiri                      mp3* https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
-n --  Europa FM                                                     pop,stiri                  aac* https://astreaming.edi.ro:8443/EuropaFM_aac
+n --  Europa FM                                                     pop,stiri                  aac* http://astreaming.europafm.ro:8000/europafm_aacp48k
 n --  Gold FM                                                       oldies                     aac* http://80.86.106.110:8002/
 n --  Kiss FM                                                       pop,dance                  aac* https://live.kissfm.ro/kissfm.aacp
 n --  Magic FM                                                      oldies,pop                 aac* https://live.magicfm.ro/magicfm.aacp
@@ -13,7 +13,7 @@ n --  Radio Impuls                                                  pop         
 n --  Radio Itsy Bitsy                                              copii                      aac* http://live.itsybitsy.ro:8000/itsybitsy
 n --  Radio Maria                                                   crestin                    mp3* https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
 n --  Radio România Actualități                                     stiri,pop                  aac* http://89.238.227.6:8006/;
-n --  Radio România Cultural                                        stiri,clasica              aac* http://stream2.srr.ro:8016/
+n --  Radio România Cultural                                        stiri,clasica              aac* https://stream4.srr.ro:8443/romania-cultural
 n --  Radio România Internațional                                   stiri                      mp3* http://stream2.srr.ro:8052/;
 n --  Radio România Muzical                                         clasica                    aac* http://stream2.srr.ro:8026/
 n --  Radio Trinitas                                                crestin                    aac* https://live.radiotrinitas.ro:8003/;stream.nsv
@@ -30,7 +30,6 @@ l BN  Bistrița FM                        Bistrița           92.6    pop,dance,
 l BZ  Campus Buzău                       Buzău              98.0    stiri                      mp3* https://radio.campusbuzau.ro:8443/CAMPUS.mp3
 l BC  Csángó Rádió                       Bacău                      maghiar                    mp3* https://sonic.xservere.net/8064/stream
 l AB  Delta Ocna Mureș                   Ocna Mureș         97.4    stiri                      mp3  https://deltafm.ro/mp3/Stan-Adrian-Ocna-Mures-Music4Night.mp
-l BC  Dream FM                           Onești             92.2    pop,rock                   aac* http://dreamfm.dtech.ro:9220/dreamfm
 l IS  Ercis FM                           Iași               94.4    crestin                    mp3* https://stream-286.surfernetwork.com/ehbuv5erws8uv?zt=eyJhbG
 l SB  Eveniment FM Sibiu                 Sibiu              103.2   pop,dance,populara         mp3* https://live.gofm.ro:2000/stream/eveniment
 l BH  Favorit FM                         Oradea             92.6    populara                   aac* http://91.250.252.251:8001/
@@ -38,7 +37,7 @@ l BZ  Focus FM                           Buzău              93.8    pop,oldies 
 l BZ  Focus FM Regional                  Râmnicu Sărat      104.7   oldies,jazz,clasica        mp3* http://89.40.72.71:8000/stream
 l IL  Focus FM Regional                  Slobozia           92.9    oldies,jazz,clasica        mp3* http://live.focusfm.ro:8000/;
 l VN  Focus FM Regional                  Focșani            97.0    oldies,jazz,clasica        mp3* http://live.focusfm.ro:8000/focusfmlow.ogg
-l BC  GFM Romania                        Bacău              90.1    populara                   aac* https://stream-177.surfernetwork.com/hlxwppx3fj4vv?zt=eyJhbG
+l BC  GFM Romania                        Bacău              90.1    populara                   mp3* https://stream-177.surfernetwork.com/hlxwppx3fj4vv?zt=eyJhbG
 l BT  Glasul Nordului                    Darabani                   populara,stiri             mp3* https://ssl.asculta.live/8096/stream
 l HR  Gyergyói Székely Rádió             Gheorgheni                 maghiar                    mp3* http://szekelyradio.top:8000/;
 l AB  HIT FM Alba                        Alba Iulia         88.6    pop,oldies                 mp3* https://radio.sonicpanel.ro/8082/stream
@@ -89,9 +88,9 @@ l CJ  Radio Mellomania                   Cluj-Napoca        96.3    dance       
 l DJ  Radio Oltenia Craiova              Craiova                    stiri,populara             mp3* http://stream2.srr.ro:8370/;stream.mp3
 l AG  Radio Orion FM                     Câmpulung          96.6    stiri                      mp3* https://cast.orionfm.ro/listen/orion/public.mp3
 l CJ  Radio Renașterea                   Cluj-Napoca        91.0    crestin                    mp3* https://cast1.asurahosting.com/proxy/arhiepis/stream
-l CS  Radio Reșița                       Reșița                     stiri,pop                  mp3* http://89.238.227.6:8344/
+l CS  Radio Reșița                       Reșița                     stiri,pop                  aac* https://stream4.srr.ro:8443/radio-resita
 l BV  Radio România Brașov FM            Brașov                     stiri,pop                  mp3* http://stream2.srr.ro:8210/;
-l B   Radio România București FM         București                  stiri,pop                  mp3* http://89.238.227.6:8032/;stream/1
+l B   Radio România București FM         București                  stiri,pop                  aac* https://stream4.srr.ro:8443/bucuresti-fm
 l MM  Radio Sighet                       Sighetu Marmației          stiri,populara             mp3* http://89.238.227.6:8390/%7CRadio
 l CT  Radio Sky                          Constanța          101.1   pop,dance,oldies           mp3* https://live.radiosky.ro/radiosky.mp3
 l BN  Radio Someș                        Bistrița           96.6    populara,stiri             aac* https://radio.mediacp.eu/stream/radiosomes
@@ -250,6 +249,7 @@ o MS  Eurodisco80 Radio                  Târgu Mureș                pop,oldies
 o B   Euronews Radio Romania             București                  pop,stiri                  mp3* https://live.euronewsradio.ro/stream
 o B   Extravaganza Radio                 București                  dance                      mp3* https://s3.radio.co/s1492c0564/listen
 o --  Fain & Simplu                                                 pop,stiri                  aac* http://zuicast.digitalag.ro:9420/fainsisimplu
+o B   Five FM Romania                    București                  dance                      mp3* https://c22.radioboss.fm:8700/stream
 o GL  FM Radio Manele                    Tecuci             107.9   manele                     mp3* https://ssl.servereradio.ro/8054/stream
 o --  FMV FIT Radio Calm & Relax                                    chill                      mp3* https://radio.webicdp.com/listen/fmvfitradiorelax/radio.mp3
 o --  FMV FIT Radio Focus                                           dance,chill                mp3* https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3
@@ -355,6 +355,7 @@ o B   Radio Armonia Romania              București                  stiri,crest
 o BZ  Radio AS FM petrecere              Buzău                      dance,manele,populara      mp3* https://stream-289.surfernetwork.com/ze76t581tm0uv?zt=eyJhbG
 o CJ  Radio Ascor                        Cluj-Napoca                crestin                    mp3* https://radioascorcluj.go.ro:4433/lisen
 o AG  Radio ASP (Asociatia Paraschiva Ar Retevoiești                populara,copii             mp3* https://ssl.omegahost.ro/8096/stream
+o BR  Radio Aspirații                    Brăila                     pop,crestin                mp3* https://c32.radioboss.fm/stream/440
 o --  Radio Babilon                                                                            mp3* https://radiobabilon.radioca.st/stream
 o B   Radio Balkan Romania               București                  dance                      mp3* https://live.radiobalkan.ro:8102/stream
 o --  Radio Bandit                                                  pop,dance,oldies           mp3* http://live.radiobandit.ro:8000/320.mp3
@@ -381,8 +382,8 @@ o --  Radio Crazy                                                   pop,dance   
 o --  Radio Crazy Romania                                                                      mp3* https://razvcarp1.radioca.st/;:80/;stream.mp3
 o SB  Radio Cuibul Lupilor Albi          Albi                       stiri                      mp3* https://stream-286.surfernetwork.com/7s5mmrtzmuhvv?zt=eyJhbG
 o CJ  Radio Cuvântul Vieții              Cluj-Napoca                                           mp3* https://ssl.asculta.live:8288/stream
-o --  Radio DA                                                      pop,dance,populara         mp3* http://n02.radiojar.com/du8khw2d2wzuv?rj-ttl=5&rj-tok=AAABod
-o VN  Radio Dada                         Focșani                    rock,jazz                  mp3* https://live.laris.ro:8004/radiodada128.mp3
+o --  Radio DA                                                      pop,dance,populara         mp3* http://n0f.radiojar.com/du8khw2d2wzuv?rj-ttl=5&rj-tok=AAABod
+o VN  Radio Dada                         Focșani                    rock,jazz                  aac* https://live.laris.ro:8004/radiodada128.mp3
 o --  Radio Damblagii                                               pop                        hls  https://radio.rodnuk.com/hls/radio_damblagii/live.m3u8
 o BC  Radio Deea                         Onești                     dance                      mp3* https://radiocdn.nxthost.com/radio-deea
 o --  Radio Deep                                                    dance                      mp3* http://live.radiodeep.ro:7500/;
@@ -397,7 +398,7 @@ o --  Radio Doxologia                                               crestin     
 o --  Radio Doza Manele                                             manele                     mp3* http://manele.radiodoza.eu:8100/stream
 o --  Radio Doza Urban                                              hiphop                     mp3* https://stream-179.surfernetwork.com/cezx5b1nw98uv?zt=eyJhbG
 o BC  Radio Easy Bacău                   Bacău                                                 mp3* https://ssl.asculta.live/8108/stream
-o --  Radio Eco Natura                                              pop,rock,stiri             mp3* http://n08.radiojar.com/fp5c3fgbyzzuv?rj-ttl=5&rj-tok=AAABod
+o --  Radio Eco Natura                                              pop,rock,stiri             mp3* http://n0a.radiojar.com/fp5c3fgbyzzuv?rj-ttl=5&rj-tok=AAABod
 o --  Radio Elim Air                                                chill,crestin              mp3* http://91.213.11.102:8011/stream_high
 o --  Radio Elim Español                                            crestin                    mp3* http://91.213.11.102:8023/stream_high
 o --  Radio Elim Plus                                               crestin                    mp3* http://91.213.11.102:8003/stream3
@@ -439,17 +440,16 @@ o --  Radio Infinit                                                             
 o --  Radio Iubire                                                                             mp3* http://ssl.radios.show:8026/;
 o --  Radio Kibut                                                                              mp3* https://listen.radioking.com/radio/380248/stream/431281
 o CJ  Radio Killer Câmpia Turzii         Câmpia Turzii              pop,dance,oldies           mp3* https://s12.myradiostream.com:17492/listen.mp3?nocache=17947
-o MS  Radio Koko                         Târgu Mureș                pop,oldies,maghiar         mp3* https://az10.yesstreaming.net:8210/radiokoko.mp3
+o MS  Rádió KoKo                         Târgu Mureș                pop,oldies,maghiar         mp3* https://az10.yesstreaming.net:8210/radiokoko.mp3
 o MS  Radio Kptv                         Târgu Mureș                rock                       aac* https://nl1.streamingpulse.com/ssl/KPTV
 o --  Radio Lăutaru                                                 populara                   mp3* http://live.radiolautaru.ro:9000/;
 o B   Radio Liberty Colinde              București                  colinde                    mp3* https://sonicssl.namehost.ro/7010/stream
 o B   Radio Liberty Dance                București                  dance                      mp3* https://sonicssl.namehost.ro/1989/stream
 o B   Radio Liberty Manele               București                  manele                     mp3* https://sonicssl.namehost.ro/7770/stream
 o B   Radio Liberty Mixt                 București                  dance,manele               mp3* https://sonicpanel.namehost.ro:1989/stream
-o B   Radio Liberty Muzică Românească    București                  pop,oldies                 mp3* https://sonicssl.namehost.ro/7060/stream
 o B   Radio Liberty Oldies               București                  oldies                     mp3* https://sonicssl.namehost.ro/7790/stream
 o B   Radio Liberty Popular              București                  populara                   mp3* https://sonicssl.namehost.ro/7780/stream
-o --  Radio liberty slagare                                         oldies                     mp3* http://slagare.radioliberty.ro:1989/
+o B   Radio Liberty Slagare              București                  oldies                     mp3* https://sonicssl.namehost.ro/7050/stream
 o B   Radio LTU                          București                                             aac* https://panel.radiocast.net/listen/radio_ltu/radio.mp3
 o B   Radio Magia Inimii Tale            București                  manele,jazz                mp3* https://a9.asurahosting.com:7030/radio.mp3
 o --  Radio Manele Premium                                          manele                     mp3* http://88.198.70.25:8894/;
@@ -460,7 +460,6 @@ o TM  Radio Marketescu House&Minimal     Timișoara                  dance      
 o TM  Radio Marketescu Rap&Trap          Timișoara                  hiphop                     aac* https://s45.radiolize.com/radio/8060/radio.mp3
 o TM  Radio Marketescu Reggae&Trip-Hop   Timișoara                                             mp3* https://s37.radiolize.com/radio/8100/radio.mp3
 o TM  Radio Marketescu Travel            Timișoara                  pop,dance,oldies           aac* https://s103.radiolize.com:8020/radio.mp3
-o BT  Radio Maryo 2018                   Botoșani                   dance,manele               mp3* https://asculta.muzicaok.de:10986/stream
 o AG  Radio Mioveni                      Mioveni                    populara                   mp3* http://argesmioveninr1.radi0.im:8000/stream
 o AG  Radio Mioveni Live                 Mioveni                    populara                   mp3* http://89.165.247.8:8989/;
 o B   Radio Mirajul Muzicii              București                                             mp3* http://live.radiomiraj.ro:9952/stream
@@ -523,7 +522,7 @@ o AB  Radio Reintregirea Alba Iulia      Alba Iulia                             
 o IF  Radio RFM                          Buftea                     pop,stiri                  mp3* https://shout.realitatea.net:8001/mixt
 o B   Radio Romance 21                   București                  pop,oldies                 mp3* https://free.rcast.net/200392
 o B   Radio România 3Net                 București                  pop,rock                   mp3* http://media.3netmedia.ro:8000/Live128
-o --  Radio Romantic- Modern Talking                                oldies                     aac* https://stream03.pcradio.app/Modern_Talking-hi
+o --  Radio Romantic- Modern Talking                                oldies                     aac* https://stream02.pcradio.app/Modern_Talking-hi
 o SJ  Radio Sălaj                        Zalău                                                 mp3* https://stream.radiosalaj.ro/listen/radio-salaj/radio.mp3
 o MM  Radio Semiton                      Baia Sprie                                            mp3* https://radiosemiton.com/radio
 o MM  Radio.Sighet.Xyz                   Sighetu Marmației                                     mp3* https://radio.sighet.xyz/listen/radio/radio.mp3
@@ -615,7 +614,9 @@ o B   Tlig Radio Romania                 București                  crestin    
 o B   TOP Dance România                  București                  pop,dance,oldies           aac* http://radiotopdance.ddns.net:8070/;
 o B   Tradițional Radio                  București                  manele                     mp3* https://radio.ascultatare.ro/7000/stream
 o --  Trance Energy                                                 dance                      mp3* https://fra-pioneer01.dedicateware.com:2990/stream
+o CT  Tranquila Manele România           Constanța                  manele                     mp3* https://live.radiotranquila.net:8032/stream
 o CJ  Transylvania Hits                  Turda                      pop                        mp3* https://radio.ascultatare.ro:8036/stream
+o B   Trapanele Radio                    București                  manele,hiphop              mp3* http://live.radiotrapanele.ro:8132/stream
 o B   Trecător România                   București                  pop,oldies                 mp3* https://stream.trecator.ro/mp3128kbps
 o CJ  UBB Radio (Universitatea Babeș Bol Cluj-Napoca                pop,stiri                  mp3* http://stream.radio.ubbcluj.ro:8000/ubb.mp3
 o DJ  UMF Craiova                        Craiova                                               mp3* https://sonic2-rbx.cloud-center.ro/8072/stream
@@ -625,12 +626,14 @@ o IF  Urban Sunsets                      Ciolpani                   pop,dance,hi
 o SV  USV Radio                          Suceava                                               mp3* http://live2.usv.ro:8000/;
 o B   Valoare Radio                      București                  manele                     mp3* https://ssl.omegahost.ro/8000/stream
 o BT  Valori Românești Radio             Românești                  pop,oldies,jazz            mp3* https://securestreams6.autopo.st:2250/
+o TM  Veselia Folclor                    Timișoara                  populara                   mp3* http://asculta.radioveseliafolclor.com:8232/stream
 o GL  Vibe FM România                    Galați                     dance                      mp3* https://live.radiovibefm.eu:8052/stream
 o BH  Vibes On Wax Radio                 Oradea                     hiphop                     mp3* https://stream-176.surfernetwork.com/0mcewk7n5a0uv?zt=eyJhbG
 o B   Victory Art Radio                  București                  pop,dance,rock             aac* https://sonic.xservere.net/8150/stream
 o VS  VIP România                        Huși                       manele                     mp3* https://live1.radiovip.ro:8969/stream
 o MM  Vis de Taină                       Baia Mare                  oldies,jazz,chill          mp3* http://89.39.189.44:8000/;
 o CT  Vivi FM                            Constanța                  dance,populara             mp3* https://free.rcast.net/200690
+o SB  Vocea Credinței                    Mediaș                     crestin                    mp3* https://c26.radioboss.fm:18191/stream
 o IF  Vocea Speranței                    Voluntari                  crestin                    aac* https://live.rvs.ro/playhq
 o --  Vrtw Radio (Vinyl Rum Tapas and Wi                                                       mp3* https://streamer.radio.co/s17198c529/listen
 o BH  Wasteland Oradea                   Oradea                     dance,rock                 mp3* https://stream-178.surfernetwork.com/f7gkz3hrp0hvv?zt=eyJhbG
