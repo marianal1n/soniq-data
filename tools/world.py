@@ -32,8 +32,9 @@ EN = {"pop": "Pop & hits", "dance": "Dance & electronic", "rock": "Rock & altern
 VAGUE = re.compile(r"^(music|misc|various|local|local radio|entertainment|regional|live|online radio|radio|internet radio|fm)$", re.I)
 EMOJI = re.compile(r"[\U0001F000-\U0001FAFF☀-➿️‍]")
 JUNK = re.compile(r"\s*[\(\[][^\)\]]*\b(?:\d+\s*k(?:bps)?|aac\+?|mp3|ogg|hq|lq|low|high|mobile|https?|stream)\b[^\)\]]*[\)\]]\s*"
-                  r"|\s+\d{2,3}\s?k(?:bps)?\b|\s+(?:aac\+?|mp3|ogg)\s*$", re.I)
-VOTES_CAP, CLICKS_CAP = 30000, 5000  # unele posturi își umflă voturile (sute de mii)
+                  r"|\s+\d{2,3}\s?k(?:bps)?\b|\s*[|/\-–]?\s*\b(?:aac\+?|mp3|ogg|opus|hq|lq)\s*$", re.I)
+# unele posturi își umflă voturile (sute de mii): contează mai ales ascultările din ultima zi
+VOTES_CAP, CLICKS_CAP = 5000, 5000
 
 
 def genres(tags, name):
@@ -43,7 +44,8 @@ def genres(tags, name):
 
 def clean(name):
     n = EMOJI.sub(" ", name or "")
-    n = JUNK.sub(" ", n)
+    for _ in range(3):  # „… | MP3 128k”: întâi pleacă „128k”, apoi „| MP3”
+        n = JUNK.sub(" ", n).strip()
     n = re.sub(r"\s+", " ", n).strip(" -|·•_.,")
     return n[:60].strip()
 
@@ -63,7 +65,7 @@ def fmt_of(st):
 def score(st):
     br = st.get("bitrate") or 0
     url = st.get("url_resolved") or st.get("url") or ""
-    sc = min(st.get("votes", 0), VOTES_CAP) ** 0.5 + min(st.get("clickcount", 0), CLICKS_CAP) ** 0.5 * 2
+    sc = min(st.get("votes", 0), VOTES_CAP) ** 0.5 + min(st.get("clickcount", 0), CLICKS_CAP) ** 0.5 * 4
     sc += 10 if 64 <= br <= 192 else 4 if br > 192 else 0
     sc += 3 if url.startswith("https") else 0
     sc -= 30 if ("token" in url or "zt=" in url) else 0
@@ -98,7 +100,7 @@ def build(rb):
             seen_url.add(url)
             alts = [u for u in dict.fromkeys(it[1] for it in g[1:]) if u != url][:2]
             tags = [t.strip() for t in (st.get("tags") or "").split(",") if t.strip()]
-            pop = min(sum(it[0].get("votes", 0) for it in g), VOTES_CAP) + 2 * min(sum(it[0].get("clickcount", 0) for it in g), CLICKS_CAP)
+            pop = min(sum(it[0].get("votes", 0) for it in g), VOTES_CAP) + 10 * min(sum(it[0].get("clickcount", 0) for it in g), CLICKS_CAP)
             s = {"id": None, "n": n, "t": "w", "cc": cc, "u": url}
             if alts:
                 s["u2"] = alts
