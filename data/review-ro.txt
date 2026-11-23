@@ -17,7 +17,7 @@
        96.2  Radio Impuls                         Câmpeni                
        97.1  Europa FM                            Alba Iulia             
        97.3  Radio Reîntregirea                   Zlatna                 
-       97.4  Delta Ocna Mureș                     Ocna Mureș             
+       97.4  Radio Delta                          Ocna Mureș             (doar pe FM)
        97.7  Virgin Radio                         Alba Iulia             
        99.1  Vocea Speranței                      Alba Iulia             
        99.4  Național FM                          Blaj                   
@@ -143,7 +143,7 @@
 == Bistrița-Năsăud (BN) — 19 posturi pe FM
        87.9  Sângeorz FM                          Sângeorz-Băi           (doar pe FM)
        88.2  Rock FM                              Bistrița               
-       89.3  Balada Radio                         Bistrița               
+       89.3  Radio Balada                         Bistrița               (doar pe FM)
        90.0  Europa FM                            Bistrița               
        91.5  Radio Transilvania                   Beclean                
        92.0  Kiss FM                              Bistrița               
@@ -156,7 +156,7 @@
        97.3  Radio Impuls                         Bistrița               
        99.3  Magic FM                             Bistrița               
       101.3  Radio România Cultural               Bistrița               
-      102.0  Radio Renașterea                     Bistrița               (doar pe FM)
+      102.0  Radio Renașterea                     Bistrița               
       103.2  Virgin Radio                         Bistrița               
       103.9  Radio România Actualități            Bistrița               
       106.0  Bistrița FM                          Bistrița               
@@ -330,7 +330,7 @@
        87.7  Someș Radio                          Dej                    
        87.8  Radio ZU                             Cluj-Napoca            
        88.3  Vocea Speranței                      Cluj-Napoca            
-       88.3  Agnus                                Cluj-Napoca            (doar pe FM)
+       88.3  Agnus Rádió                          Cluj-Napoca            
        88.3  RVE Oradea                           Cluj-Napoca            
        88.8  Radio România Actualități            Cluj-Napoca            
        89.2  Radio Dor FM                         Huedin                 (doar pe FM)
@@ -341,7 +341,7 @@
        89.8  Rock FM                              Cluj-Napoca            
        89.9  Radio Transilvania                   Turda                  
        90.4  EBS Radio                            Cluj-Napoca            
-       91.0  Radio Renașterea                     Cluj-Napoca            (doar pe FM)
+       91.0  Radio Renașterea                     Cluj-Napoca            
        91.7  RFI România                          Cluj-Napoca            
        92.2  Rock FM                              Cluj-Napoca            
        92.8  Radio Dor FM                         Cluj-Napoca            (doar pe FM)
@@ -357,7 +357,7 @@
        97.9  Vocea Speranței                      Dej                    
        98.2  Național FM                          Câmpia Turzii          
        98.8  Radio Cluj                           Cluj-Napoca            
-       99.1  Radio Renașterea                     Huedin                 (doar pe FM)
+       99.1  Radio Renașterea                     Huedin                 
        99.8  Pro FM                               Cluj-Napoca            
       100.4  Mária Rádió Erdély                   Cluj-Napoca            
       101.0  Radio România Cultural               Cluj-Napoca            
@@ -437,7 +437,7 @@
        96.8  City Rádió                           Sfântu Gheorghe        
        98.5  Sepsi Rádió                          Sfântu Gheorghe        
       103.0  Magic FM                             Sfântu Gheorghe        
-      105.9  Slager Radio                         Sfântu Gheorghe        (doar pe FM)
+      105.9  Sláger Rádió                         Sfântu Gheorghe        
       107.2  Rádió GaGa Háromszék                 Sfântu Gheorghe        
 
 == Dâmbovița (DB) — 11 posturi pe FM
@@ -1100,13 +1100,14 @@
     15  RADIO GALAXY
      6  FRESH FM
      4  ALT FM
-     3  RADIO RENAȘTEREA
      3  RADIO DOR FM
+     2  RADIO DELTA
      2  RADIO CAMPUS
      2  ARAD FM
      1  RADIO EVENIMENT
      1  CITY FM - ALBA IULIA
      1  MARAMUREȘ FM BAIA MARE
+     1  RADIO BALADA
      1  MARAMUREȘ FM
      1  BRĂILA DENS FM
      1  ORTODOXIA
@@ -1115,7 +1116,6 @@
      1  EURONEWS RADIO INFORMATIV
      1  BUZZ FM
      1  RADIO UNO
-     1  AGNUS
      1  RADIO DOINA FM
      1  RADIO HORION
      1  M1 FM
@@ -1144,7 +1144,6 @@
      1  SÂNGEORZ FM
      1  RADIO UNU SATU MARE
      1  NEMERE PENTRU
-     1  SLAGER RADIO
      1  RFM SFÂNTU GHEORGHE
      1  RADIO SIBIU
      1  CITY FM - SIBIU
@@ -1158,7 +1157,6 @@
      1  RADIO OMEGA
      1  RADIO AS
      1  HIT FM HARGHITA
-     1  RADIO DELTA
      1  MARAMUREȘ FM VĂRATEC
      1  RFM VÂRVORU DE JOS
      1  RADIO ORION
